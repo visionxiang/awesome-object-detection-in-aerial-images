@@ -9,9 +9,9 @@ A curated list of awesome resources for generic object detection in aerial image
 
 ## Contents:
 - [Overview](#Overview)
-- [Oriented OD](#Oriented OD)
-- [Small OD](#Small/Dense OD)
-- [UAV OD](#UAV OD)
+- [Oriented OD](#Oriented-OD)
+- [Small OD](#Small/Dense-OD)
+- [UAV OD](#UAV-OD)
 - [Appendix](#Appendix)
 
 --------------------------------------------------------------------------------------
