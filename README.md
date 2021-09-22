@@ -1,7 +1,7 @@
 
 # Object Detection in Aerial Images
 
-A curated list of awesome resources for generic object detection in aerial images. We will keep updating it. (Updated 2021-09-20.)
+A curated list of awesome resources for generic object detection in aerial images. We will keep updating it. (❗️ Updated 2021-09-20.)
 
 
 --------------------------------------------------------------------------------------
