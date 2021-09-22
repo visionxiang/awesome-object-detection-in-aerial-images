@@ -109,16 +109,16 @@ A curated list of awesome resources for generic object detection in aerial image
 
 #### 2018 
 
-**No.** | **Pub.** | **Title** | **Authors** | **Links** | **CMTs**
-:-: | :-: | :-  | :- | :- | :- 
+**No.** | **Pub.** | **Title** | **Authors** | **Links**
+:-: | :-: | :-  | :- | :-
 03 | TIP | Random Access Memories: A New Paradigm for Target Detection in High Resolution Aerial Remote Sensing Images | Zhengxia Zou, Zhenwei Shi | [Paper](https://ieeexplore.ieee.org/document/8106808)/Code|
 02 | CVPR | DOTA: A Large-Scale Dataset for Object Detection in Aerial Images | Gui-Song Xia, et al. | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.pdf)/[Code](https://github.com/dingjiansw101/AerialDetection) 
 01 | CVPR | <span style="white-space:nowrap;">ClusterNet: Detecting Small Objects in Large Scenes by Exploiting Spatio-Temporal Information \[HBB\]&emsp;</span> | <span style="white-space:nowrap;">R. Londe, Dong Zhang, Mubarak Shah&emsp;</span> | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/LaLonde_ClusterNet_Detecting_Small_CVPR_2018_paper.pdf)/[arXiv](https://arxiv.org/abs/1704.02694)<br>/Code 
 
 #### Before 2018
 
-**No.** | **Pub.** | **Title** | **Authors** | **Links** | **CMTs**
-:-: | :-: | :-  | :- | :- | :- 
+**No.** | **Pub.** | **Title** | **Authors** | **Links**
+:-: | :-: | :-  | :- | :- 
 04 | CVPR16 | RIFD-CNN: Rotation-Invariant and Fisher Discriminative Convolutional Neural Networks for Object Detection | Gong Cheng, Peicheng Zhou, Junwei Han | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Cheng_RIFD-CNN_Rotation-Invariant_and_CVPR_2016_paper.pdf)/Code|
 03 | TGRS16 | <span style="white-space:nowrap;">Learning Rotation-Invariant Convolutional Neural Networks for<br>Object Detection in VHR Optical Remote Sensing Images&emsp;</span> | <span style="white-space:nowrap;">Gong Cheng, Peicheng Zhou, Junwei Han&emsp;</span> | [Paper](https://ieeexplore.ieee.org/abstract/document/7560644)/[Code1](https://pan.baidu.com/s/158JPjYQvXwnkrAqKF72Jgg#list/path=%2FRICNN)<br>/[Code2](https://github.com/jiangruoqiao/RICNN_GongCheng_CVPR2015)|
 02 | ECCV16 | A Large Contextual Dataset for Classification, Detection and Counting of Cars with Deep Learning \[HBB\] | T. Nathan Mundhenk, et al. | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_48)/Code
