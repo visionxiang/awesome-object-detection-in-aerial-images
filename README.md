@@ -120,8 +120,8 @@ A curated list of awesome resources for generic object detection in aerial image
 
 #### Before 2018
 
-**No.** | **Year** | **Pub.** | **Title** | **Authors** | **Links**
-:-: | :-: | :-  | :- | :- 
+**No.** | **Year** | **Pub.** | **Title** | **Authors** | **Links**  
+:-: | :-: | :-  | :- | :-  
 04 | 2016 | CVPR | RIFD-CNN: Rotation-Invariant and Fisher Discriminative Convolutional Neural Networks for Object Detection | Gong Cheng, Peicheng Zhou, Junwei Han | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Cheng_RIFD-CNN_Rotation-Invariant_and_CVPR_2016_paper.pdf)/Code|
 03 | 2016 | TGRS | <span style="white-space:nowrap;">Learning Rotation-Invariant Convolutional Neural Networks for Object Detection in VHR Optical Remote Sensing Images&emsp;</span> | <span style="white-space:nowrap;">Gong Cheng, Peicheng Zhou, Junwei Han&emsp;</span> | [Paper](https://ieeexplore.ieee.org/abstract/document/7560644)/[Code1](https://pan.baidu.com/s/158JPjYQvXwnkrAqKF72Jgg#list/path=%2FRICNN)<br>[Code2](https://github.com/jiangruoqiao/RICNN_GongCheng_CVPR2015)|
 02 | 2016 | ECCV | A Large Contextual Dataset for Classification, Detection and Counting of Cars with Deep Learning \[HBB\] | T. Nathan Mundhenk, et al. | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_48)/Code
