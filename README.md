@@ -1,7 +1,7 @@
 
 # Object Detection in Aerial Images 
 
-A curated list of awesome resources for generic object detection in aerial images. We will keep updating it. 
+A curated list of awesome resources for generic object detection in aerial images. Keep updating. 
 
 :heavy_exclamation_mark:Updated 2021-09-26.
 
@@ -218,6 +218,7 @@ A curated list of awesome resources for generic object detection in aerial image
 2021 | AAAI | Rethinking Object Detection in Retail Stores | Yuanqiang Cai, Dawei Du, etc | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16178)/[Code](https://isrc.iscas.ac.cn/gitlab/research/locount-dataset) |
  |||||
  |||||
+2020 | NeurIPS | RepPoints V2: Verification Meets Regression for Object Detection | Yihong Chen, Zheng Zhang, et al. | [Paper](https://arxiv.org/abs/2007.08508)/[Code](https://github.com/Scalsol/RepPointsV2)
 2020 | TIP | Self-Supervised Feature Augmentation for Large Image Object Detection | Xingjia Pan, et al. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9094016&casa_token=3pTpBlwlFFcAAAAA:fj8ElKNHVM2HDdizamiYUPg52LwC95dnlBcI2qK-bLAA1Sf4QyDVz2D6495NxEwW2tcm2Bw&tag=1)/Code|
 2020 | ECCV | End-to-End Object Detection with Transformers `DETR` | Carion N, et al. | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)/[Code](https://github.com/facebookresearch/detr)
 2020 | ECCV | Learning Data Augmentation Strategies for Object Detection | Barret Zoph, Quoc V. Le, et al. | [Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720562.pdf)/[Code](https://github.com/tensorflow/tpu/tree/master/models/official/detection)|
