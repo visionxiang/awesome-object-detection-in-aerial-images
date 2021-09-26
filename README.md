@@ -48,7 +48,6 @@ A curated list of awesome resources for generic object detection in aerial image
 :-: | :-: | :-  | :- | :-
 13 | arXiv<br>2109 | Oriented Object Detection in Aerial Images Based on Area Ratio of Parallelogram | Xinyu Yu, Mi Lin, et al. | [Paper](https://arxiv.org/abs/2109.10187)/Code
 12 | arXiv<br>2109 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection | Steven Lang, et al. | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
-12 | arXiv<br>2109 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection | Steven Lang, et al. | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
 11 | arXiv<br/>2108 | TS4Net: Two-Stage Sample Selective Strategy for Rotating Object Detection | Kai Feng, et al. | [Paper](https://arxiv.org/pdf/2108.03116.pdf)/[Data](https://github.com/fengkaibit/UAV-ROD) 
 10 | arXiv<br/>2106 | Oriented Object Detection with Transformer | Teli Ma, et al. | [Paper](https://arxiv.org/pdf/2106.03146.pdf)/Code
 09 | arXiv<br/>2105 | Oriented RepPoints for Aerial Object Detection | Wentong Li, Jianke Zhu | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/Code
