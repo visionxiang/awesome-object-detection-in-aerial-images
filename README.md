@@ -55,7 +55,7 @@ Keep updating.
 2021 | arXiv06 | OSKDet: Towards Orientation-sensitive Keypoint Localization for Rotated Object Detection | Dongchen Lu | [Paper](https://arxiv.org/pdf/2104.08697.pdf)/Code
 2021 | arXiv06 | AdaZoom: Adaptive Zoom Network for Multi-Scale Object Detection in Large Scenes \[HBB\] | Jingtao Xu, Yali Li, et al. | [Paper](https://arxiv.org/abs/2106.10409)/Code 
 2021 | arXiv06 | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | Xue Yang, Junchi Yan, et al. | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection?utm_source=catalyzex.com)
-2021 | arXiv05 | Oriented RepPoints for Aerial Object Detection | Wentong Li, Jianke Zhu | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/Code
+2021 | arXiv05 | Oriented RepPoints for Aerial Object Detection | Wentong Li, Jianke Zhu | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/[Code](https://github.com/LiWentomng/OrientedRepPoints)
 2021 | arXiv03 | Learning Calibrated-Guidance for Object Detection in Aerial Images | Dong Liang, Zongqi Wei, et al. | [Paper](https://arxiv.org/pdf/2103.11399.pdf)/[Code](https://github.com/WeiZongqi/CG-Net)
 2021 | arXiv03 | Optimization for Oriented Object Detection via Representation Invariance Loss | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://arxiv.org/abs/2103.11636)/[Code](https://github.com/ming71/RIDet)
 2020 | arXiv12 | MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images | Ran Qin, Yunhong Wang, et al. | [Paper](https://arxiv.org/pdf/2012.13135.pdf)/Code
