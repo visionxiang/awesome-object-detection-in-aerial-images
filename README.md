@@ -2,7 +2,8 @@
 # Object Detection in Aerial Images 
 
 A curated list of awesome resources for generic object detection in aerial images. We will keep updating it. 
-:heavy_exclamation_mark:Updated 2021-09-20.
+
+:heavy_exclamation_mark:Updated 2021-09-26.
 
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
@@ -45,6 +46,8 @@ A curated list of awesome resources for generic object detection in aerial image
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
+13 | arXiv<br>2109 | Oriented Object Detection in Aerial Images Based on Area Ratio of Parallelogram | Xinyu Yu, Mi Lin, et al. | [Paper](https://arxiv.org/abs/2109.10187)/Code
+12 | arXiv<br>2109 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection | Steven Lang, et al. | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
 12 | arXiv<br>2109 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection | Steven Lang, et al. | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
 11 | arXiv<br/>2108 | TS4Net: Two-Stage Sample Selective Strategy for Rotating Object Detection | Kai Feng, et al. | [Paper](https://arxiv.org/pdf/2108.03116.pdf)/[Data](https://github.com/fengkaibit/UAV-ROD) 
 10 | arXiv<br/>2106 | Oriented Object Detection with Transformer | Teli Ma, et al. | [Paper](https://arxiv.org/pdf/2106.03146.pdf)/Code
@@ -62,6 +65,7 @@ A curated list of awesome resources for generic object detection in aerial image
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
+04 | PR | Gradient-Aligned Convolution Neural Network `[rotation invariance]` | You Hao, Ping Hu, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005343?dgcid=raven_sd_aip_email)/Code
 03 | **PAMI** | Gliding Vertex on the Horizontal Bounding Box for Multi-Oriented Object Detection | Yongchao Xu, et al. | [Paper](https://ieeexplore.ieee.org/document/9001201?denied=)/[arXiv](https://arxiv.org/abs/1911.09358)<br>[Code](https://github.com/MingtaoFu/gliding_vertex) 
 02 | TIP | <span style="white-space:nowrap;">GSDet: Object Detection in Aerial Images Based on Scale Reasoning&emsp;</span> | <span style="white-space:nowrap;">Wei Li, Wei Wei, Lei Zhang&emsp;</span> | [Paper](https://ieeexplore.ieee.org/document/9411691)/Code
 01 | TGRS | Align Deep Features for Oriented Object Detection | Jiaming Han, Jian Ding, et al. | [Paper](https://arxiv.org/abs/2008.09397)/[Code](https://github.com/csuhan/s2anet)
