@@ -18,6 +18,7 @@ Keep updating.
 - [Oriented OD](#Oriented-OD)
 - [Small OD](#Small-OD)
 - [UAV OD](#UAV-OD)
+- [Instance Seg](#Instance-Segmentation)
 - [Dataset](#Dataset)
 - [Appendix](#Appendix)
 
@@ -98,7 +99,7 @@ Keep updating.
 05 | **ECCV** | Arbitrary-Oriented Object Detection with Circular Smooth Label | Xue Yang, Junchi Yan, Tao He | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_40)/[Code](https://github.com/Thinklab-SJTU/CSL_RetinaNet_Tensorflow)<br>[arXiv](https://arxiv.org/pdf/2003.05597.pdf)/[Code2](https://yangxue0827.github.io/CSL_GCL_OHDet.html) 
 04 | **ECCV** | PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments | Zhiming Chen, Weiyao Lin, et al. | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_12)/[Code](https://github.com/clobotics/piou)
 03 | ICME | Cascade Detector With Feature Fusion For Arbitrary-Oriented Objects In Remote Sensing Images | Liping Hou, Ke Lu, et al. | Paper/Code
-02 | **CVPR** | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery | Zhuo Zheng, et al. | Paper/Code
+02 | **CVPR** | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery | Zhuo Zheng, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.html)/[Code](https://github.com/Z-Zheng/FarSeg)
 01 | CVPR | <span style="white-space:nowrap;">Dynamic Refinement Network for Oriented and Densely Packed Object Detection&emsp;</span> | <span style="white-space:nowrap;">X. Pan, Changsheng Xu, et al.&emsp;</span> | [Paper](https://arxiv.org/abs/2005.09973)/[Code](https://github.com/Anymake/DRN\_CVPR2020)
 
 #### 2019
@@ -174,6 +175,13 @@ Keep updating.
 2020 | MM | MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos | M. Mandal, Lav Kumar, S. Vipparthi | [Paper](https://arxiv.org/pdf/2008.01699.pdf)/Code|
 2020 | MM | <span style="white-space:nowrap;">Guided Attention Network for Object Detection and Counting on Drones&emsp;</span> | <span style="white-space:nowrap;">Y. Cai, Dawei Du, et al.&emsp;</span> | [Paper](https://arxiv.org/pdf/1909.11307.pdf)/[Code](https://isrc.iscas.ac.cn/gitlab/research/ganet/-/tree/master)|
 
+
+## Instance Segmentation
+
+**Year** | **Pub.** | **Title** | **Authors** | **Links**
+:-: | :-: | :-  | :- | :- 
+2021 | TCYB c| Semantic Attention and Scale Complementary Network for Instance Segmentation in Remote Sensing Images | Tianyang Zhang, Licheng Jiao, et al. | [Paper](https://ieeexplore.ieee.org/document/9523594)/Code
+2020 | CVPR | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery | Zhuo Zheng, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.html)/[Code](https://github.com/Z-Zheng/FarSeg)
 
 
 ## Dataset
