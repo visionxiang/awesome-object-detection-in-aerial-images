@@ -180,7 +180,7 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :- 
-2021 | TCYB c| Semantic Attention and Scale Complementary Network for Instance Segmentation in Remote Sensing Images | Tianyang Zhang, Licheng Jiao, et al. | [Paper](https://ieeexplore.ieee.org/document/9523594)/Code
+2021 | TCYB | Semantic Attention and Scale Complementary Network for Instance Segmentation in Remote Sensing Images | Tianyang Zhang, Licheng Jiao, et al. | [Paper](https://ieeexplore.ieee.org/document/9523594)/Code
 2020 | CVPR | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery | Zhuo Zheng, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.html)/[Code](https://github.com/Z-Zheng/FarSeg)
 
 
