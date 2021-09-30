@@ -92,7 +92,6 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
-06 | arXiv03 | On the Arbitrary-Oriented Object Detection: Classification based Approaches Revisited | Xue Yang, Junchi Yan, Tao He | [Paper](https://arxiv.org/abs/2003.05597)/[Proj](https://yangxue0827.github.io/CSL_GCL_OHDet.html)<br>[ECCV20-CSL](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_40)/[Data](https://yangxue0827.github.io/OHD-SJTU.html) |
 05 | TIP | A Global-Local Self-Adaptive Network for Drone-View Object Detection | Sutao Deng, et al. | Paper/Code
 04 | TNN | CRPN-SFNet: A High-Performance Object Detector on Large-Scale Remote Sensing Images | Qifeng Lin, et al. | Paper/Code
 03 | ISPRS<br>JPRS | Orientation guided anchoring for geospatial object detection from remote sensing imagery | Yongtao Yu, et al. | Paper/Code
@@ -100,7 +99,7 @@ Keep updating.
 01 | ISPRS<br>JPRS | Oriented objects as pairs of middle lines | Haoran Wei, et al. | [Paper](https://arxiv.org/abs/1912.10694)/Code
  ||||
  ||||
-05 | **ECCV** | Arbitrary-Oriented Object Detection with Circular Smooth Label | Xue Yang, Junchi Yan, Tao He | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_40)/[Code](https://github.com/Thinklab-SJTU/CSL_RetinaNet_Tensorflow)<br>[arXiv](https://arxiv.org/pdf/2003.05597.pdf)/[Code2](https://yangxue0827.github.io/CSL_GCL_OHDet.html) 
+05 | **ECCV** | Arbitrary-Oriented Object Detection with Circular Smooth Label / `[Journal]` On the Arbitrary-Oriented Object Detection: Classification based Approaches Revisited | Xue Yang, Junchi Yan, Tao He | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_40)/[Code](https://github.com/Thinklab-SJTU/CSL_RetinaNet_Tensorflow)<br>[Code2](https://yangxue0827.github.io/CSL_GCL_OHDet.html)/[Journal](https://arxiv.org/abs/2003.05597)<br>[Proj](https://yangxue0827.github.io/CSL_GCL_OHDet.html)/[Data](https://yangxue0827.github.io/OHD-SJTU.html)|
 04 | **ECCV** | PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments | Zhiming Chen, Weiyao Lin, et al. | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_12)/[Code](https://github.com/clobotics/piou)
 03 | ICME | Cascade Detector With Feature Fusion For Arbitrary-Oriented Objects In Remote Sensing Images | Liping Hou, Ke Lu, et al. | Paper/Code
 02 | **CVPR** | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery | Zhuo Zheng, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.html)/[Code](https://github.com/Z-Zheng/FarSeg)
