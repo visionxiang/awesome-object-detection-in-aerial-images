@@ -56,8 +56,7 @@ Keep updating.
 2021 | arXiv08 | CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images | Qi Ming, et al. | [Paper](https://arxiv.org/pdf/2101.06849.pdf)/[Code](https://github.com/ming71/CFC-Net)
 2021 | arXiv06 | Oriented Object Detection with Transformer | Teli Ma, et al. | [Paper](https://arxiv.org/pdf/2106.03146.pdf)/Code
 2021 | arXiv06 | OSKDet: Towards Orientation-sensitive Keypoint Localization for Rotated Object Detection | Dongchen Lu | [Paper](https://arxiv.org/pdf/2104.08697.pdf)/Code
-2021 | arXiv06 | AdaZoom: Adaptive Zoom Network for Multi-Scale Object Detection in Large Scenes \[HBB\] | Jingtao Xu, Yali Li, et al. | [Paper](https://arxiv.org/abs/2106.10409)/Code 
-2021 | arXiv06 | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | Xue Yang, Junchi Yan, et al. | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection?utm_source=catalyzex.com)
+2021 | arXiv06 | AdaZoom: Adaptive Zoom Network for Multi-Scale Object Detection in Large Scenes \[HBB\] | Jingtao Xu, Yali Li, et al. | [Paper](https://arxiv.org/abs/2106.10409)/Code |
 2021 | arXiv05 | Oriented RepPoints for Aerial Object Detection | Wentong Li, Jianke Zhu | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/[Code](https://github.com/LiWentomng/OrientedRepPoints)
 2021 | arXiv04 | TricubeNet: 2D Kernel-Based Object Representation for Weakly-Occluded Oriented Object Detection | Beomyoung Kim, Janghyeon Lee, et al. | [Paper](https://arxiv.org/abs/2104.11435)/Code
 2021 | arXiv03 | Learning Calibrated-Guidance for Object Detection in Aerial Images | Dong Liang, Zongqi Wei, et al. | [Paper](https://arxiv.org/pdf/2103.11399.pdf)/[Code](https://github.com/WeiZongqi/CG-Net)
@@ -76,6 +75,7 @@ Keep updating.
 01 | TGRS | Align Deep Features for Oriented Object Detection | Jiaming Han, Jian Ding, et al. | [Paper](https://arxiv.org/abs/2008.09397)/[Code](https://github.com/csuhan/s2anet)
  ||||
  ||||
+12 | NeurIPS | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | Xue Yang, Junchi Yan, et al. | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection?utm_source=catalyzex.com)
 11 | **ICCV** | Towards Rotation Invariance in Object Detection | Agastya Kalra, Guy Stoppi, et al. | [Paper](https://arxiv.org/abs/2109.13488v1)/[Code](https://github.com/akasha-imaging/ICCV2021)
 10 | **ICCV** | Oriented R-CNN for Object Detection | X. Xie, Gong Cheng, et al. | [Paper](https://arxiv.org/abs/2108.05699)/[Code](https://github.com/jbwang1997/OBBDetection)
 09 | MM | Polar Ray: A Single-stage Angle-free Detector for Oriented Object Detection in Aerial Images | Shuai Liu, Huchuan Lu, et al. | Paper/Code
@@ -85,13 +85,15 @@ Keep updating.
 05 | **CVPR** | Dense Label Encoding for Boundary Discontinuity Free Rotation Detection | Xue Yang, Junchi Yan, et al. | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Dense_Label_Encoding_for_Boundary_Discontinuity_Free_Rotation_Detection_CVPR_2021_paper.pdf)/[Code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
 04 | CVPR | GAIA: A Transfer Learning System of Object Detection that Fits Your Needs `HBB` | X. Bu, Zhaoxiang Zhang, et al. | [Paper](https://arxiv.org/pdf/2106.11346.pdf)/[Code](https://github.com/GAIA-vision/GAIA-det)
 03 | **AAAI** | Dynamic Anchor Learning for Arbitrary-Oriented Object Detection | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16336)/[Code](https://github.com/ming71/DAL)
-02 | **AAAI** | Learning Modulated Loss for Rotated Object Detection | Wen Qian, Xue Yang, Junchi Yang, et al. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16347)/[arXiv](https://arxiv.org/abs/1911.08299)<br>[Code](https://github.com/Mrqianduoduo/RSDet-8P-4R) 
+02 | **AAAI** | Learning Modulated Loss for Rotated Object Detection `[RSDet]` | Wen Qian, Xue Yang, Junchi Yang, et al. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16347)/[arXiv](https://arxiv.org/abs/1911.08299)<br>[Code](https://github.com/Mrqianduoduo/RSDet-8P-4R) 
 01 | **AAAI** | <span style="white-space:nowrap;">R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object &emsp;&emsp;</span> | <span style="white-space:nowrap;">Xue Yang, Junchi Yang, et al. &emsp;</span> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16426)/[arXiv](https://arxiv.org/abs/1908.05612)<br>[Py](https://github.com/SJTU-Thinklab-Det/r3det-on-mmdetection)/[TF](https://github.com/Thinklab-SJTU/R3Det_Tensorflow) 
 
 #### 2020
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
+06 | arXiv03 | On the Arbitrary-Oriented Object Detection: Classification based Approaches Revisited | Xue Yang, Junchi Yan, Tao He |
+[Paper](https://arxiv.org/abs/2003.05597)/[Proj](https://yangxue0827.github.io/CSL_GCL_OHDet.html)<br>[ECCV20-CSL](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_40)/[Data](https://yangxue0827.github.io/OHD-SJTU.html) |
 05 | TIP | A Global-Local Self-Adaptive Network for Drone-View Object Detection | Sutao Deng, et al. | Paper/Code
 04 | TNN | CRPN-SFNet: A High-Performance Object Detector on Large-Scale Remote Sensing Images | Qifeng Lin, et al. | Paper/Code
 03 | ISPRS<br>JPRS | Orientation guided anchoring for geospatial object detection from remote sensing imagery | Yongtao Yu, et al. | Paper/Code
