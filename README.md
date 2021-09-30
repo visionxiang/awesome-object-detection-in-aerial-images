@@ -92,8 +92,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
-06 | arXiv03 | On the Arbitrary-Oriented Object Detection: Classification based Approaches Revisited | Xue Yang, Junchi Yan, Tao He |
-[Paper](https://arxiv.org/abs/2003.05597)/[Proj](https://yangxue0827.github.io/CSL_GCL_OHDet.html)<br>[ECCV20-CSL](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_40)/[Data](https://yangxue0827.github.io/OHD-SJTU.html) |
+06 | arXiv03 | On the Arbitrary-Oriented Object Detection: Classification based Approaches Revisited | Xue Yang, Junchi Yan, Tao He | [Paper](https://arxiv.org/abs/2003.05597)/[Proj](https://yangxue0827.github.io/CSL_GCL_OHDet.html)<br>[ECCV20-CSL](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_40)/[Data](https://yangxue0827.github.io/OHD-SJTU.html) |
 05 | TIP | A Global-Local Self-Adaptive Network for Drone-View Object Detection | Sutao Deng, et al. | Paper/Code
 04 | TNN | CRPN-SFNet: A High-Performance Object Detector on Large-Scale Remote Sensing Images | Qifeng Lin, et al. | Paper/Code
 03 | ISPRS<br>JPRS | Orientation guided anchoring for geospatial object detection from remote sensing imagery | Yongtao Yu, et al. | Paper/Code
