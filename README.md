@@ -66,6 +66,7 @@ Keep updating.
 2022 | WACV | TricubeNet: 2D Kernel-Based Object Representation for Weakly-Occluded Oriented Object Detection | Beomyoung Kim, Janghyeon Lee, et al. | [Paper](https://arxiv.org/abs/2104.11435)/Code
 2022 | TGRS | MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images | Ran Qin, Yunhong Wang, et al. | [Paper](https://arxiv.org/pdf/2012.13135.pdf)/Code
 2021 | TGRS | CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images | Qi Ming, et al. | [Paper](https://arxiv.org/pdf/2101.06849.pdf)/[Code](https://github.com/ming71/CFC-Net)
+2021 | TGRS | Align Deep Features for Oriented Object Detection | Jiaming Han, Jian Ding, et al. | [Paper](https://arxiv.org/abs/2008.09397)/[Code](https://github.com/csuhan/s2anet)
 2021 | GRSL | Optimization for Oriented Object Detection via Representation Invariance Loss | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://arxiv.org/abs/2103.11636)/[Code](https://github.com/ming71/RIDet)
 -->
 
@@ -82,13 +83,12 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
-04 | PR | Gradient-Aligned Convolution Neural Network `[rotation invariance]` | You Hao, Ping Hu, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005343?dgcid=raven_sd_aip_email)/Code
-03 | **PAMI** | Gliding Vertex on the Horizontal Bounding Box for Multi-Oriented Object Detection | Yongchao Xu, et al. | [Paper](https://ieeexplore.ieee.org/document/9001201?denied=)/[arXiv](https://arxiv.org/abs/1911.09358)<br>[Code](https://github.com/MingtaoFu/gliding_vertex) 
-02 | TIP | <span style="white-space:nowrap;">GSDet: Object Detection in Aerial Images Based on Scale Reasoning&emsp;</span> | <span style="white-space:nowrap;">Wei Li, Wei Wei, Lei Zhang&emsp;</span> | [Paper](https://ieeexplore.ieee.org/document/9411691)/Code
-01 | TGRS | Align Deep Features for Oriented Object Detection | Jiaming Han, Jian Ding, et al. | [Paper](https://arxiv.org/abs/2008.09397)/[Code](https://github.com/csuhan/s2anet)
+03 | PR | Gradient-Aligned Convolution Neural Network `[rotation invariance]` | You Hao, Ping Hu, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005343?dgcid=raven_sd_aip_email)/Code
+02 | **PAMI** | Gliding Vertex on the Horizontal Bounding Box for Multi-Oriented Object Detection | Yongchao Xu, et al. | [Paper](https://ieeexplore.ieee.org/document/9001201?denied=)/[arXiv](https://arxiv.org/abs/1911.09358)<br>[Code](https://github.com/MingtaoFu/gliding_vertex) 
+01 | TIP | <span style="white-space:nowrap;">GSDet: Object Detection in Aerial Images Based on Scale Reasoning&emsp;</span> | <span style="white-space:nowrap;">Wei Li, Wei Wei, Lei Zhang&emsp;</span> | [Paper](https://ieeexplore.ieee.org/document/9411691)/Code
  ||||
  ||||
-12 | NeurIPS | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | Xue Yang, Junchi Yan, et al. | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection?utm_source=catalyzex.com)
+12 | **NeurIPS** | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | Xue Yang, Junchi Yan, et al. | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection?utm_source=catalyzex.com)
 11 | **ICCV** | Towards Rotation Invariance in Object Detection | Agastya Kalra, Guy Stoppi, et al. | [Paper](https://arxiv.org/abs/2109.13488v1)/[Code](https://github.com/akasha-imaging/ICCV2021)
 10 | **ICCV** | Oriented R-CNN for Object Detection | X. Xie, Gong Cheng, et al. | [Paper](https://arxiv.org/abs/2108.05699)/[Code](https://github.com/jbwang1997/OBBDetection)
 09 | MM | Polar Ray: A Single-stage Angle-free Detector for Oriented Object Detection in Aerial Images | Shuai Liu, Huchuan Lu, et al. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475457)/Code
