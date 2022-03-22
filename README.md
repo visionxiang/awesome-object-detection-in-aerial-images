@@ -57,13 +57,19 @@ Keep updating.
 2021 | arXiv06 | Oriented Object Detection with Transformer | Teli Ma, et al. | [Paper](https://arxiv.org/pdf/2106.03146.pdf)/Code
 2021 | arXiv06 | OSKDet: Towards Orientation-sensitive Keypoint Localization for Rotated Object Detection | Dongchen Lu | [Paper](https://arxiv.org/pdf/2104.08697.pdf)/Code
 2021 | arXiv06 | AdaZoom: Adaptive Zoom Network for Multi-Scale Object Detection in Large Scenes \[HBB\] | Jingtao Xu, Yali Li, et al. | [Paper](https://arxiv.org/abs/2106.10409)/Code |
-2021 | arXiv05 | Oriented RepPoints for Aerial Object Detection | Wentong Li, Jianke Zhu | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/[Code](https://github.com/LiWentomng/OrientedRepPoints)
 2021 | arXiv04 | TricubeNet: 2D Kernel-Based Object Representation for Weakly-Occluded Oriented Object Detection | Beomyoung Kim, Janghyeon Lee, et al. | [Paper](https://arxiv.org/abs/2104.11435)/Code
 2021 | arXiv03 | Learning Calibrated-Guidance for Object Detection in Aerial Images | Dong Liang, Zongqi Wei, et al. | [Paper](https://arxiv.org/pdf/2103.11399.pdf)/[Code](https://github.com/WeiZongqi/CG-Net)
 2021 | arXiv03 | Optimization for Oriented Object Detection via Representation Invariance Loss | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://arxiv.org/abs/2103.11636)/[Code](https://github.com/ming71/RIDet)
 2020 | arXiv12 | MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images | Ran Qin, Yunhong Wang, et al. | [Paper](https://arxiv.org/pdf/2012.13135.pdf)/Code
 2020 | arXiv10 | Rotated Ring, Radial and Depth Wise Separable Radial Convolutions | Wolfgang Fuhl, E. Kasneci | [Paper](https://arxiv.org/abs/2010.00873)/[Code](https://atreus.informatik.uni-tuebingen.de/seafile/d/8e2ab8c3fdd444e1a135/)
 2020 | arXiv04 | <span style="white-space:nowrap;">SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing&emsp;&emsp;</span> | <span style="white-space:nowrap;">Xue Yang, Junchi Yan, et al.&emsp;</span> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
+
+
+#### 2022
+
+01 | CVPR22 | Oriented RepPoints for Aerial Object Detection | Wentong Li, Jianke Zhu | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/[Code](https://github.com/LiWentomng/OrientedRepPoints)
+
+
 
 #### 2021
 
@@ -78,7 +84,7 @@ Keep updating.
 12 | NeurIPS | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | Xue Yang, Junchi Yan, et al. | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection?utm_source=catalyzex.com)
 11 | **ICCV** | Towards Rotation Invariance in Object Detection | Agastya Kalra, Guy Stoppi, et al. | [Paper](https://arxiv.org/abs/2109.13488v1)/[Code](https://github.com/akasha-imaging/ICCV2021)
 10 | **ICCV** | Oriented R-CNN for Object Detection | X. Xie, Gong Cheng, et al. | [Paper](https://arxiv.org/abs/2108.05699)/[Code](https://github.com/jbwang1997/OBBDetection)
-09 | MM | Polar Ray: A Single-stage Angle-free Detector for Oriented Object Detection in Aerial Images | Shuai Liu, Huchuan Lu, et al. | Paper/Code
+09 | MM | Polar Ray: A Single-stage Angle-free Detector for Oriented Object Detection in Aerial Images | Shuai Liu, Huchuan Lu, et al. | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475457)/Code
 08 | **ICML** | Rethinking Rotated Object Detection with Gaussian Wasserstein Distance Loss | Xue Yang,  Junchi Yan, et al. | [arXiv](https://arxiv.org/abs/2101.11952)/[Code](https://github.com/yangxue0827/RotationDetection)<br>[SUPP](http://proceedings.mlr.press/v139/yang21l/yang21l-supp.pdf)
 07 | **CVPR** | ReDet: A Rotation-equivariant Detector for Aerial Object Detection | Jiaming Han, Jian Ding, Nan Xue, Gui-Song Xia |  [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Han_ReDet_A_Rotation-Equivariant_Detector_for_Aerial_Object_Detection_CVPR_2021_paper.pdf)/[Code](https://github.com/csuhan/ReDet) 
 06 | **CVPR** | Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection | Z. Guo, Qixiang Ye, et al. | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Beyond_Bounding-Box_Convex-Hull_Feature_Adaptation_for_Oriented_and_Densely_Packed_CVPR_2021_paper.pdf)/[Code](https://github.com/CVPR2021-1616/BeyondBoundingBox)
@@ -87,6 +93,9 @@ Keep updating.
 03 | **AAAI** | Dynamic Anchor Learning for Arbitrary-Oriented Object Detection | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16336)/[Code](https://github.com/ming71/DAL)
 02 | **AAAI** | Learning Modulated Loss for Rotated Object Detection `[RSDet]` | Wen Qian, Xue Yang, Junchi Yang, et al. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16347)/[arXiv](https://arxiv.org/abs/1911.08299)<br>[Code](https://github.com/Mrqianduoduo/RSDet-8P-4R) 
 01 | **AAAI** | <span style="white-space:nowrap;">R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object &emsp;&emsp;</span> | <span style="white-space:nowrap;">Xue Yang, Junchi Yang, et al. &emsp;</span> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16426)/[arXiv](https://arxiv.org/abs/1908.05612)<br>[Py](https://github.com/SJTU-Thinklab-Det/r3det-on-mmdetection)/[TF](https://github.com/Thinklab-SJTU/R3Det_Tensorflow) 
+
+
+
 
 #### 2020
 
@@ -103,7 +112,9 @@ Keep updating.
 04 | **ECCV** | PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments | Zhiming Chen, Weiyao Lin, et al. | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_12)/[Code](https://github.com/clobotics/piou)
 03 | ICME | Cascade Detector With Feature Fusion For Arbitrary-Oriented Objects In Remote Sensing Images | Liping Hou, Ke Lu, et al. | Paper/Code
 02 | **CVPR** | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery | Zhuo Zheng, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.html)/[Code](https://github.com/Z-Zheng/FarSeg)
-01 | CVPR | <span style="white-space:nowrap;">Dynamic Refinement Network for Oriented and Densely Packed Object Detection&emsp;</span> | <span style="white-space:nowrap;">X. Pan, Changsheng Xu, et al.&emsp;</span> | [Paper](https://arxiv.org/abs/2005.09973)/[Code](https://github.com/Anymake/DRN\_CVPR2020)
+01 | **CVPR** | <span style="white-space:nowrap;">Dynamic Refinement Network for Oriented and Densely Packed Object Detection&emsp;</span> | <span style="white-space:nowrap;">X. Pan, Changsheng Xu, et al.&emsp;</span> | [Paper](https://arxiv.org/abs/2005.09973)/[Code](https://github.com/Anymake/DRN\_CVPR2020)
+
+
 
 #### 2019
 
