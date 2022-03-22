@@ -4,7 +4,7 @@
 A curated list of awesome resources for generic object detection in aerial images. 
 Keep updating. 
 
-:heavy_exclamation_mark:Updated 2021-09-30.
+:heavy_exclamation_mark:Updated 2022-03-20.
 
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
@@ -67,6 +67,8 @@ Keep updating.
 
 #### 2022
 
+**No.** | **Pub.** | **Title** | **Authors** | **Links**
+:-: | :-: | :-  | :- | :-
 01 | CVPR22 | Oriented RepPoints for Aerial Object Detection | Wentong Li, Jianke Zhu | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/[Code](https://github.com/LiWentomng/OrientedRepPoints)
 
 
