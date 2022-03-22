@@ -48,23 +48,27 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
-2021 | **arXiv09** | RSDet++: Point-based Modulated Loss for More Accurate Rotated Object Detection | Wen Qian, Xue Yang, et al. | [Paper](https://arxiv.org/pdf/2109.11906v1.pdf)/[Code](https://github.com/yangxue0827/RotationDetection)
+2021 | arXiv09 | RSDet++: Point-based Modulated Loss for More Accurate Rotated Object Detection | Wen Qian, Xue Yang, et al. | [Paper](https://arxiv.org/pdf/2109.11906v1.pdf)/[Code](https://github.com/yangxue0827/RotationDetection)
 2021 | arXiv09 | A General Gaussian Heatmap Labeling for Arbitrary-Oriented Object Detection | Zhanchao Huang,Wei Li, Xiang-Gen Xia, Ran Tao | [Paper](https://arxiv.org/pdf/2109.12848v1.pdf)/Code
 2021 | arXiv09 | Oriented Object Detection in Aerial Images Based on Area Ratio of Parallelogram | Xinyu Yu, Mi Lin, et al. | [Paper](https://arxiv.org/abs/2109.10187)/Code
 2021 | arXiv09 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection | Steven Lang, et al. | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
 2021 | arXiv08 | TS4Net: Two-Stage Sample Selective Strategy for Rotating Object Detection | Kai Feng, et al. | [Paper](https://arxiv.org/pdf/2108.03116.pdf)/[Data](https://github.com/fengkaibit/UAV-ROD) 
-2021 | arXiv08 | CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images | Qi Ming, et al. | [Paper](https://arxiv.org/pdf/2101.06849.pdf)/[Code](https://github.com/ming71/CFC-Net)
 2021 | arXiv06 | Oriented Object Detection with Transformer | Teli Ma, et al. | [Paper](https://arxiv.org/pdf/2106.03146.pdf)/Code
 2021 | arXiv06 | OSKDet: Towards Orientation-sensitive Keypoint Localization for Rotated Object Detection | Dongchen Lu | [Paper](https://arxiv.org/pdf/2104.08697.pdf)/Code
 2021 | arXiv06 | AdaZoom: Adaptive Zoom Network for Multi-Scale Object Detection in Large Scenes \[HBB\] | Jingtao Xu, Yali Li, et al. | [Paper](https://arxiv.org/abs/2106.10409)/Code |
-2021 | arXiv04 | TricubeNet: 2D Kernel-Based Object Representation for Weakly-Occluded Oriented Object Detection | Beomyoung Kim, Janghyeon Lee, et al. | [Paper](https://arxiv.org/abs/2104.11435)/Code
 2021 | arXiv03 | Learning Calibrated-Guidance for Object Detection in Aerial Images | Dong Liang, Zongqi Wei, et al. | [Paper](https://arxiv.org/pdf/2103.11399.pdf)/[Code](https://github.com/WeiZongqi/CG-Net)
 2020 | arXiv04 | <span style="white-space:nowrap;">SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing&emsp;&emsp;</span> | <span style="white-space:nowrap;">Xue Yang, Junchi Yan, et al.&emsp;</span> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
 
-<!--
+
+<!-- 
+**No.** | **Pub.** | **Title** | **Authors** | **Links**
+:-: | :-: | :-  | :- | :-
+2022 | WACV | TricubeNet: 2D Kernel-Based Object Representation for Weakly-Occluded Oriented Object Detection | Beomyoung Kim, Janghyeon Lee, et al. | [Paper](https://arxiv.org/abs/2104.11435)/Code
 2022 | TGRS | MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images | Ran Qin, Yunhong Wang, et al. | [Paper](https://arxiv.org/pdf/2012.13135.pdf)/Code
+2021 | TGRS | CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images | Qi Ming, et al. | [Paper](https://arxiv.org/pdf/2101.06849.pdf)/[Code](https://github.com/ming71/CFC-Net)
 2021 | GRSL | Optimization for Oriented Object Detection via Representation Invariance Loss | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://arxiv.org/abs/2103.11636)/[Code](https://github.com/ming71/RIDet)
---!>
+-->
+
 
 #### 2022
 
