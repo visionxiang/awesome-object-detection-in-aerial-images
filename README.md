@@ -61,7 +61,6 @@ Keep updating.
 2021 | arXiv03 | Learning Calibrated-Guidance for Object Detection in Aerial Images | Dong Liang, Zongqi Wei, et al. | [Paper](https://arxiv.org/pdf/2103.11399.pdf)/[Code](https://github.com/WeiZongqi/CG-Net)
 2021 | arXiv03 | Optimization for Oriented Object Detection via Representation Invariance Loss | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://arxiv.org/abs/2103.11636)/[Code](https://github.com/ming71/RIDet)
 2020 | arXiv12 | MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images | Ran Qin, Yunhong Wang, et al. | [Paper](https://arxiv.org/pdf/2012.13135.pdf)/Code
-2020 | arXiv10 | Rotated Ring, Radial and Depth Wise Separable Radial Convolutions | Wolfgang Fuhl, E. Kasneci | [Paper](https://arxiv.org/abs/2010.00873)/[Code](https://atreus.informatik.uni-tuebingen.de/seafile/d/8e2ab8c3fdd444e1a135/)
 2020 | arXiv04 | <span style="white-space:nowrap;">SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing&emsp;&emsp;</span> | <span style="white-space:nowrap;">Xue Yang, Junchi Yan, et al.&emsp;</span> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
 
 
