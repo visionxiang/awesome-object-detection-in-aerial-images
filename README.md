@@ -30,13 +30,13 @@ Keep updating.
 
 **No.** | **Year** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-:  | :- | :-| --
-07 | 2021 | **arXiv** | <span style="white-space:nowrap;">Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges `DOTA` &emsp;&emsp;</span> | <span style="white-space:nowrap;"> Jian Ding, Gui-Song Xia, et al.&emsp;</span> | [Paper](https://arxiv.org/pdf/2102.12219.pdf)/[Proj](https://captain-whu.github.io/DOTA/) 
+07 | 2021 | **PAMI** | <span style="white-space:nowrap;">Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges `DOTA` &emsp;&emsp;</span> | <span style="white-space:nowrap;"> Jian Ding, Gui-Song Xia, et al.&emsp;</span> | [Paper](https://arxiv.org/pdf/2102.12219.pdf)/[Proj](https://captain-whu.github.io/DOTA/) 
 06 | 2020 | IJCV | Deep Learning for Generic Object Detection: A Survey `GOD` | Li Liu, Wanli Ouyang, et al. | [Paper](https://link.springer.com/article/10.1007/s11263-019-01247-4#Abs1)/Code 
-05 | 2020 | ISPRS<br>JPRS | Object detection in optical remote sensing images: A survey and a new benchmark `HBB` | Ke Li, Gong Cheng, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)/[Data](https://gcheng-nwpu.github.io/#Datasets)  
+05 | 2020 | JPRS | Object detection in optical remote sensing images: A survey and a new benchmark `HBB` | Ke Li, Gong Cheng, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)/[Data](https://gcheng-nwpu.github.io/#Datasets)  
 04 | 2019 | TNN | Object Detection With Deep Learning: A Review `GOD` | Zhongqiu Zhao, et al. | [Paper](https://ieeexplore.ieee.org/document/8627998)/Code 
-03 | 2018 | ISPRS<br>JPRS | A review of accuracy assessment for object-based image analysis: From per-pixel to per-polygon approaches | Su Ye,  Rahul Rakshit, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271618300947)/Code
+03 | 2018 | JPRS | A review of accuracy assessment for object-based image analysis: From per-pixel to per-polygon approaches | Su Ye,  Rahul Rakshit, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271618300947)/Code
 02 | 2018 | **CVPR** | DOTA: A Large-Scale Dataset for Object Detection in Aerial Images `DOTA` | Gui-Song Xia, et al. | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.pdf)/[Code](https://github.com/dingjiansw101/AerialDetection) 
-01 | 2016 | ISPRS<br>JPRS | A survey on object detection in optical remote sensing images | Gong Cheng, Junwei Han | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271616300144)/Code
+01 | 2016 | JPRS | A survey on object detection in optical remote sensing images | Gong Cheng, Junwei Han | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271616300144)/Code
 
 
 
@@ -54,7 +54,6 @@ Keep updating.
 2021 | arXiv09 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection | Steven Lang, et al. | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
 2021 | arXiv08 | TS4Net: Two-Stage Sample Selective Strategy for Rotating Object Detection | Kai Feng, et al. | [Paper](https://arxiv.org/pdf/2108.03116.pdf)/[Data](https://github.com/fengkaibit/UAV-ROD) 
 2021 | arXiv06 | Oriented Object Detection with Transformer | Teli Ma, et al. | [Paper](https://arxiv.org/pdf/2106.03146.pdf)/Code
-2021 | arXiv06 | OSKDet: Towards Orientation-sensitive Keypoint Localization for Rotated Object Detection | Dongchen Lu | [Paper](https://arxiv.org/pdf/2104.08697.pdf)/Code
 2021 | arXiv06 | AdaZoom: Adaptive Zoom Network for Multi-Scale Object Detection in Large Scenes \[HBB\] | Jingtao Xu, Yali Li, et al. | [Paper](https://arxiv.org/abs/2106.10409)/Code |
 2021 | arXiv03 | Learning Calibrated-Guidance for Object Detection in Aerial Images | Dong Liang, Zongqi Wei, et al. | [Paper](https://arxiv.org/pdf/2103.11399.pdf)/[Code](https://github.com/WeiZongqi/CG-Net)
 2020 | arXiv04 | <span style="white-space:nowrap;">SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing&emsp;&emsp;</span> | <span style="white-space:nowrap;">Xue Yang, Junchi Yan, et al.&emsp;</span> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
@@ -75,19 +74,21 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
-01 | CVPR | Oriented RepPoints for Aerial Object Detection | Wentong Li, Jianke Zhu | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/[Code](https://github.com/LiWentomng/OrientedRepPoints)
-
+06 | CVPR | Weakly Supervised Rotation-Invariant Aerial Object Detection Network | Xiaoxu Feng, Gong Cheng, et al. | Paper/Code
+05 | CVPR | OSKDet: Towards Orientation-sensitive Keypoint Localization for Rotated Object Detection | D Lu, et al. | [Paper](https://arxiv.org/abs/2104.08697)/Code
+04 | CVPR | Oriented RepPoints for Aerial Object Detection | Wentong Li, Jianke Zhu | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/[Code](https://github.com/LiWentomng/OrientedRepPoints)
+03 | CVPR | Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes | Yang You, Cewu Lu, et al. | [Paper](https://arxiv.org/abs/2011.12001)/[Code](https://github.com/qq456cvb/CanonicalVoting)
+02 | AAAI | Shape-Adaptive Selection and Measurement for Oriented Object Detection | Liping Hou, Ke Lu, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-2171.HouL.pdf)/Code
+01 | AAAI | Polygon-to-Polygon Distance Loss for Rotated Object Detection | Yang Yang, Jifeng Chen, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-8470.YangY.pdf)/Code/[Slides](https://aaai-2022.virtualchair.net/poster_aaai8470)
 
 
 #### 2021
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
-03 | PR | Gradient-Aligned Convolution Neural Network `[rotation invariance]` | You Hao, Ping Hu, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005343?dgcid=raven_sd_aip_email)/Code
-02 | **PAMI** | Gliding Vertex on the Horizontal Bounding Box for Multi-Oriented Object Detection | Yongchao Xu, et al. | [Paper](https://ieeexplore.ieee.org/document/9001201?denied=)/[arXiv](https://arxiv.org/abs/1911.09358)<br>[Code](https://github.com/MingtaoFu/gliding_vertex) 
-01 | TIP | <span style="white-space:nowrap;">GSDet: Object Detection in Aerial Images Based on Scale Reasoning&emsp;</span> | <span style="white-space:nowrap;">Wei Li, Wei Wei, Lei Zhang&emsp;</span> | [Paper](https://ieeexplore.ieee.org/document/9411691)/Code
- ||||
- ||||
+15 | PR | Gradient-Aligned Convolution Neural Network `[rotation invariance]` | You Hao, Ping Hu, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320321005343?dgcid=raven_sd_aip_email)/Code
+14 | **PAMI** | Gliding Vertex on the Horizontal Bounding Box for Multi-Oriented Object Detection | Yongchao Xu, et al. | [Paper](https://ieeexplore.ieee.org/document/9001201?denied=)/[arXiv](https://arxiv.org/abs/1911.09358)<br>[Code](https://github.com/MingtaoFu/gliding_vertex) 
+13 | TIP | <span style="white-space:nowrap;">GSDet: Object Detection in Aerial Images Based on Scale Reasoning&emsp;</span> | <span style="white-space:nowrap;">Wei Li, Wei Wei, Lei Zhang&emsp;</span> | [Paper](https://ieeexplore.ieee.org/document/9411691)/Code
 12 | **NeurIPS** | Learning High-Precision Bounding Box for Rotated Object Detection via Kullback-Leibler Divergence | Xue Yang, Junchi Yan, et al. | [Paper](https://arxiv.org/abs/2106.01883)/[Code](https://github.com/yangxue0827/RotationDetection?utm_source=catalyzex.com)
 11 | **ICCV** | Towards Rotation Invariance in Object Detection | Agastya Kalra, Guy Stoppi, et al. | [Paper](https://arxiv.org/abs/2109.13488v1)/[Code](https://github.com/akasha-imaging/ICCV2021)
 10 | **ICCV** | Oriented R-CNN for Object Detection | X. Xie, Gong Cheng, et al. | [Paper](https://arxiv.org/abs/2108.05699)/[Code](https://github.com/jbwang1997/OBBDetection)
@@ -108,13 +109,11 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
-05 | TIP | A Global-Local Self-Adaptive Network for Drone-View Object Detection | Sutao Deng, et al. | Paper/Code
-04 | TNN | CRPN-SFNet: A High-Performance Object Detector on Large-Scale Remote Sensing Images | Qifeng Lin, et al. | Paper/Code
-03 | ISPRS<br>JPRS | Orientation guided anchoring for geospatial object detection from remote sensing imagery | Yongtao Yu, et al. | Paper/Code
-02 | ISPRS<br>JPRS | <span style="white-space:nowrap;">Rotation-aware and multi-scale convolutional neural network for object detection in remote sensing images &emsp;</span> | <span style="white-space:nowrap;">Kun Fu, et al. &emsp;&emsp;&emsp;</span> | Paper/Code
-01 | ISPRS<br>JPRS | Oriented objects as pairs of middle lines | Haoran Wei, et al. | [Paper](https://arxiv.org/abs/1912.10694)/Code
- ||||
- ||||
+10 | TIP | A Global-Local Self-Adaptive Network for Drone-View Object Detection | Sutao Deng, et al. | Paper/Code
+09 | TNN | CRPN-SFNet: A High-Performance Object Detector on Large-Scale Remote Sensing Images | Qifeng Lin, et al. | Paper/Code
+08 | JPRS | Orientation guided anchoring for geospatial object detection from remote sensing imagery | Yongtao Yu, et al. | Paper/Code
+07 | JPRS | <span style="white-space:nowrap;">Rotation-aware and multi-scale convolutional neural network for object detection in remote sensing images &emsp;</span> | <span style="white-space:nowrap;">Kun Fu, et al. &emsp;&emsp;&emsp;</span> | Paper/Code
+06 | JPRS | Oriented objects as pairs of middle lines | Haoran Wei, et al. | [Paper](https://arxiv.org/abs/1912.10694)/Code
 05 | **ECCV** | Arbitrary-Oriented Object Detection with Circular Smooth Label / `[Journal]` On the Arbitrary-Oriented Object Detection: Classification based Approaches Revisited | Xue Yang, Junchi Yan, Tao He | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_40)/[Code](https://github.com/Thinklab-SJTU/CSL_RetinaNet_Tensorflow)<br>[Code2](https://yangxue0827.github.io/CSL_GCL_OHDet.html)/[Journal](https://arxiv.org/abs/2003.05597)<br>[Proj](https://yangxue0827.github.io/CSL_GCL_OHDet.html)/[Data](https://yangxue0827.github.io/OHD-SJTU.html)|
 04 | **ECCV** | PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments | Zhiming Chen, Weiyao Lin, et al. | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_12)/[Code](https://github.com/clobotics/piou)
 03 | ICME | Cascade Detector With Feature Fusion For Arbitrary-Oriented Objects In Remote Sensing Images | Liping Hou, Ke Lu, et al. | Paper/Code
