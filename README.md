@@ -141,7 +141,7 @@ Keep updating.
 04 | ICME | Cropping Region Proposal Network Based Framework for Efficient Object Detection on Large Scale Remote Sensing Images | Qifeng Lin, et al. | [Paper](https://ieeexplore.ieee.org/document/8784756?denied=)/Code
 03 | **CVPR** | <span style="white-space:nowrap;">Learning RoI Transformer for Oriented Object Detection in Aerial Images&emsp;</span>  | <span style="white-space:nowrap;">Jian Ding, Nan Xue, et al.&emsp;&emsp;</span> | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Learning_RoI_Transformer_for_Oriented_Object_Detection_in_Aerial_Images_CVPR_2019_paper.pdf)/[Code](https://github.com/dingjiansw101/RoITransformer_DOTA)
 02 | CVPR | Precise Detection in Densely Packed Scenes `[GOD]` | Eran Goldman, Roei Herzig, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Goldman_Precise_Detection_in_Densely_Packed_Scenes_CVPR_2019_paper.pdf)/[Code](https://github.com/eg4000/SKU110K_CVPR19) 
-01 | 2019 | CVPR | Towards Universal Object Detection by Domain Attention | Xudong Wang, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.pdf)/[Code](http://www.svcl.ucsd.edu/projects/universal-detection/)
+01 | CVPR | Towards Universal Object Detection by Domain Attention | Xudong Wang, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.pdf)/[Code](http://www.svcl.ucsd.edu/projects/universal-detection/)
 
 #### 2018 
 
