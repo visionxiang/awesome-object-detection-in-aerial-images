@@ -4,7 +4,7 @@
 A curated list of awesome resources for generic object detection in aerial images. 
 Keep updating. 
 
-:heavy_exclamation_mark:Updated 2022-06-28.
+:heavy_exclamation_mark:Updated 2022-07-30.
 
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
