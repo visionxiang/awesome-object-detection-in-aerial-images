@@ -30,6 +30,7 @@ Keep updating.
 
 **No.** | **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-:  | :- | :- 
+08 | 2022 |  arXiv | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
 07 | 2021 | **PAMI** | <span style="white-space:nowrap;">Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges `DOTA` &emsp;&emsp;</span>  <br><sub><sup>*Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2102.12219.pdf)/[Proj](https://captain-whu.github.io/DOTA/) 
 06 | 2020 | IJCV | Deep Learning for Generic Object Detection: A Survey `GOD`  <br><sub><sup>*Li Liu, Wanli Ouyang, et al.*</sup></sub>  | [Paper](https://link.springer.com/article/10.1007/s11263-019-01247-4#Abs1)/Code 
 05 | 2020 | JPRS | Object detection in optical remote sensing images: A survey and a new benchmark `HBB`  <br><sub><sup>*Ke Li, Gong Cheng, et al.*</sup></sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)/[Data](https://gcheng-nwpu.github.io/#Datasets)  
@@ -168,13 +169,21 @@ Keep updating.
 
 
 
-## Small Object Detection
+## Small Object Detection 
+
+
+**Year** | **Pub.** | **Title** | **Links**
+:-: | :-: | :-  | :- 
+2022 |  arXiv | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
+2022 | CVPR | QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection <br> <sub><sup>*Chenhongyi Yang, Zehao Huang, Naiyan Wang*</sup></sub> | [Paper](https://arxiv.org/abs/2103.09136)/[Code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
+
+
+
+
 
 **Year** | **Pub.** | **Title** | **Authors** | **Links**
 :-: | :-: | :-  | :- | :-
 2021 | arXiv07 | A Survey on Deep Domain Adaptation and Tiny Object Detection Challenges, Techniques and Datasets | Muhammed Muzammul, Xi Li | [Paper](https://arxiv.org/abs/2107.07927)/Code
-2021 | arXiv07 | SSPNet: Scale Selection Pyramid Network for Tiny Person Detection from UAV Images | Mingbo Hong, Shuiwang Li, et al. | [Paper](https://arxiv.org/abs/2107.01548)/Code
-2021 | arXiv03 | QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection | Chenhongyi Yang, Zehao Huang, Naiyan Wang | [Paper](https://arxiv.org/abs/2103.09136)/[Code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
 2021 | TMM | Extended Feature Pyramid Network for Small Object Detection | Chunfang Deng, et al. | [Paper](https://ieeexplore.ieee.org/document/9409729)/Code
 2021 | TMM | CrossNet: Detecting Objects as Crosses | Jiaxu Leng, Xinbo Gao, et al. | [Paper](https://ieeexplore.ieee.org/document/9357941)/Code
 2021 | CVPR | Dogfight: Detecting Drones from Drones Videos | M. Ashraf, W. Sultani, Mubarak Shah | [Paper](https://arxiv.org/abs/2103.17242)/Code
