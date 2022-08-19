@@ -174,6 +174,7 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
+2022 |  ECCV  | RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia*</sup></sub>  | [Paper](https://arxiv.org/abs/2208.08738)/[Code](https://github.com/Chasel-Tsui/mmdet-rfla)
 2022 |  arXiv | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
 2022 | CVPR | QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection <br> <sub><sup>*Chenhongyi Yang, Zehao Huang, Naiyan Wang*</sup></sub> | [Paper](https://arxiv.org/abs/2103.09136)/[Code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
 
