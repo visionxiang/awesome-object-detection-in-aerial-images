@@ -77,6 +77,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+09 | ECCV | EAutoDet: Efficient Architecture Search for Object Detection <br><sub><sup>*Xiaoxing Wang, Jiale Lin, Junchi Yan, Juanping Zhao, Xiaokang Yang*</sup></sub> | [Paper](https://arxiv.org/abs/2203.10747)/Code
 08 | PAMI | SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing  <br><sub><sup>*Xue Yang, Junchi Yan, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
 09 | TIP | GGHL: A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection  <br><sub><sup>*Zhanchao Huang, Wei Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.12848)/[Code](https://github.com/Shank2358/GGHL)
 08 | TCSVT | RSDet++: Point-based Modulated Loss for More Accurate Rotated Object Detection <br><sub><sup>*Wen Qian, Xue Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2109.11906v1.pdf)/[Code](https://github.com/yangxue0827/RotationDetection)
