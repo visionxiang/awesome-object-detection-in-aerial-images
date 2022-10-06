@@ -49,6 +49,7 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
+2022 | arXiv05 | AO2-DETR: Arbitrary-Oriented Object Detection Transformer <br><sub><sup>*Linhui Dai, Hong Liu, Hao Tang, Zhiwei Wu, Pinhao Song*</sup></sub> | [Paper](https://arxiv.org/abs/2205.12785)/[Code](https://github.com/Ixiaohuihuihui/AO2-DETR)
 2022 | arXiv05 | Point RCNN: An Angle-Free Framework for Rotated Object Detection <br><sub><sup>*Qiang Zhou, Chaohui Yu, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2205.14328)/Code
 2022 | arXiv05 | G-Rep: Gaussian Representation for Arbitrary-Oriented Object Detection <br><sub><sup>*Liping Hou, Xue Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2205.11796)/[Code](https://github.com/open-mmlab/mmrotate)
 2022 | arXiv04 | Anchor-free Oriented Proposal Generator for Object Detection <br><sub><sup>*Gong Cheng, Jiabao Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2110.01931)/[Code](https://github.com/jbwang1997/AOPG)
@@ -77,10 +78,11 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
-09 | ECCV | EAutoDet: Efficient Architecture Search for Object Detection <br><sub><sup>*Xiaoxing Wang, Jiale Lin, Junchi Yan, Juanping Zhao, Xiaokang Yang*</sup></sub> | [Paper](https://arxiv.org/abs/2203.10747)/Code
-08 | PAMI | SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing  <br><sub><sup>*Xue Yang, Junchi Yan, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
-09 | TIP | GGHL: A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection  <br><sub><sup>*Zhanchao Huang, Wei Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.12848)/[Code](https://github.com/Shank2358/GGHL)
-08 | TCSVT | RSDet++: Point-based Modulated Loss for More Accurate Rotated Object Detection <br><sub><sup>*Wen Qian, Xue Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2109.11906v1.pdf)/[Code](https://github.com/yangxue0827/RotationDetection)
+12 | ECCV | EAutoDet: Efficient Architecture Search for Object Detection <br><sub><sup>*Xiaoxing Wang, Jiale Lin, Junchi Yan, Juanping Zhao, Xiaokang Yang*</sup></sub> | [Paper](https://arxiv.org/abs/2203.10747)/Code
+11 | PAMI | SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing  <br><sub><sup>*Xue Yang, Junchi Yan, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
+10 | TIP | GGHL: A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection  <br><sub><sup>*Zhanchao Huang, Wei Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.12848)/[Code](https://github.com/Shank2358/GGHL)
+09 | TCSVT | RSDet++: Point-based Modulated Loss for More Accurate Rotated Object Detection <br><sub><sup>*Wen Qian, Xue Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2109.11906v1.pdf)/[Code](https://github.com/yangxue0827/RotationDetection)
+08 | CVPR | Interactive Multi-Class Tiny-Object Detection  <br><sub><sup>*Chunggi Lee, Seonwook Park, Heon Song, Jeongun Ryu, Sanghoon Kim*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Interactive_Multi-Class_Tiny-Object_Detection_CVPR_2022_paper.pdf)/[Code](https://github.com/ChungYi347/Interactive-Multi-Class-Tiny-Object-Detection)
 07 | CVPR | Weakly Supervised Rotation-Invariant Aerial Object Detection Network   <br><sub><sup>*Xiaoxu Feng, Gong Cheng, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Weakly_Supervised_Rotation-Invariant_Aerial_Object_Detection_Network_CVPR_2022_paper.pdf)/[Code](https://github.com/XiaoxFeng/RINet)
 06 | CVPR | OSKDet: Towards Orientation-sensitive Keypoint Localization for Rotated Object Detection  <br><sub><sup>*Dongchen Lu, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_OSKDet_Orientation-Sensitive_Keypoint_Localization_for_Rotated_Object_Detection_CVPR_2022_paper.pdf)/Code
 05 | CVPR | Oriented RepPoints for Aerial Object Detection   <br><sub><sup>*Wentong Li, Jianke Zhu*</sup></sub> | [Paper](https://arxiv.org/pdf/2105.11111.pdf)/[Code](https://github.com/LiWentomng/OrientedRepPoints)
@@ -175,6 +177,7 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
+2022 |  JPRS  | Detecting tiny objects in aerial images: A normalized Wasserstein distance and a new benchmark <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yua, Lei Yua, Gui-SongXi*</sup></sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001599#!)/[Code](https://github.com/jwwangchn/NWD)
 2022 |  ECCV  | RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia*</sup></sub>  | [Paper](https://arxiv.org/abs/2208.08738)/[Code](https://github.com/Chasel-Tsui/mmdet-rfla)
 2022 |  arXiv | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
 2022 | CVPR | QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection <br> <sub><sup>*Chenhongyi Yang, Zehao Huang, Naiyan Wang*</sup></sub> | [Paper](https://arxiv.org/abs/2103.09136)/[Code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
