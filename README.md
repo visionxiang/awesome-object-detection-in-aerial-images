@@ -53,12 +53,8 @@ Keep updating.
 2022 | arXiv05 | G-Rep: Gaussian Representation for Arbitrary-Oriented Object Detection <br><sub><sup>*Liping Hou, Xue Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2205.11796)/[Code](https://github.com/open-mmlab/mmrotate)
 2022 | arXiv04 | Anchor-free Oriented Proposal Generator for Object Detection <br><sub><sup>*Gong Cheng, Jiabao Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2110.01931)/[Code](https://github.com/jbwang1997/AOPG)
 2021 | arXiv11 | Sampling Equivariant Self-attention Networks for Object Detection in Aerial Images <br><sub><sup>*Guo-Ye Yang, Xiang-Li Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2111.03420)/Code
-2021 | arXiv09 | Oriented Object Detection in Aerial Images Based on Area Ratio of Parallelogram <br><sub><sup>*Xinyu Yu, Mi Lin, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.10187)/Code
 2021 | arXiv09 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection <br><sub><sup>*Steven Lang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
-2021 | arXiv08 | TS4Net: Two-Stage Sample Selective Strategy for Rotating Object Detection <br><sub><sup>*Kai Feng, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2108.03116.pdf)/[Data](https://github.com/fengkaibit/UAV-ROD) 
 2021 | arXiv06 | Oriented Object Detection with Transformer <br><sub><sup>*Teli Ma, et al.*</sup></sub>  | [Paper](https://arxiv.org/pdf/2106.03146.pdf)/Code
-2021 | arXiv03 | <span style="white-space:nowrap;">Learning Calibrated-Guidance for Object Detection in Aerial Images&emsp;&emsp;</span>  <br><sub><sup>*Dong Liang, Zongqi Wei, et al.*</sup></sub>  | [Paper](https://arxiv.org/pdf/2103.11399.pdf)/[Code](https://github.com/WeiZongqi/CG-Net)
-
 
 
 <!-- 
