@@ -50,10 +50,8 @@ Keep updating.
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
 2022 | arXiv05 | AO2-DETR: Arbitrary-Oriented Object Detection Transformer <br><sub><sup>*Linhui Dai, Hong Liu, Hao Tang, Zhiwei Wu, Pinhao Song*</sup></sub> | [Paper](https://arxiv.org/abs/2205.12785)/[Code](https://github.com/Ixiaohuihuihui/AO2-DETR)
-2022 | arXiv05 | Point RCNN: An Angle-Free Framework for Rotated Object Detection <br><sub><sup>*Qiang Zhou, Chaohui Yu, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2205.14328)/Code
 2022 | arXiv05 | G-Rep: Gaussian Representation for Arbitrary-Oriented Object Detection <br><sub><sup>*Liping Hou, Xue Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2205.11796)/[Code](https://github.com/open-mmlab/mmrotate)
 2022 | arXiv04 | Anchor-free Oriented Proposal Generator for Object Detection <br><sub><sup>*Gong Cheng, Jiabao Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2110.01931)/[Code](https://github.com/jbwang1997/AOPG)
-2021 | arXiv12 | Anchor Retouching via Model Interaction for Robust Object Detection in Aerial Images <br><sub><sup>*Dong Liang, Qixiang Geng, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2112.06701)/[Code](https://github.com/QxGeng/DEA-Net)
 2021 | arXiv11 | Sampling Equivariant Self-attention Networks for Object Detection in Aerial Images <br><sub><sup>*Guo-Ye Yang, Xiang-Li Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2111.03420)/Code
 2021 | arXiv09 | Oriented Object Detection in Aerial Images Based on Area Ratio of Parallelogram <br><sub><sup>*Xinyu Yu, Mi Lin, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.10187)/Code
 2021 | arXiv09 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection <br><sub><sup>*Steven Lang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
@@ -71,6 +69,7 @@ Keep updating.
 2021 | TGRS | CFC-Net: A Critical Feature Capturing Network for Arbitrary-Oriented Object Detection in Remote Sensing Images | Qi Ming, et al. | [Paper](https://arxiv.org/pdf/2101.06849.pdf)/[Code](https://github.com/ming71/CFC-Net)
 2021 | TGRS | Align Deep Features for Oriented Object Detection | Jiaming Han, Jian Ding, et al. | [Paper](https://arxiv.org/abs/2008.09397)/[Code](https://github.com/csuhan/s2anet)
 2021 | GRSL | Optimization for Oriented Object Detection via Representation Invariance Loss | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://arxiv.org/abs/2103.11636)/[Code](https://github.com/ming71/RIDet) 
+2021 | TGRS | Anchor Retouching via Model Interaction for Robust Object Detection in Aerial Images <br><sub><sup>*Dong Liang, Qixiang Geng, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2112.06701)/[Code](https://github.com/QxGeng/DEA-Net)
 -->
 
 
