@@ -16,9 +16,9 @@ Keep updating.
 ## Contents:
 - [Overview](#Overview)
 - [Oriented OD](#Oriented-Object-Detection)
-- [Small OD](#Small-Object-Detection)
-- [UAV OD](#UAV-Object-Detection)
-- [Instance Seg](#Instance-Segmentation)
+- [Instance Segmentation](#Instance-Segmentation)
+- [Small Object Detection](#Small-Object-Detection)
+- [UAV Object Dectection](#UAV-Object-Detection)
 - [Dataset](#Dataset)
 - [Appendix](#Appendix)
 
@@ -49,7 +49,6 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
-2022 | arXiv05 | AO2-DETR: Arbitrary-Oriented Object Detection Transformer <br><sub><sup>*Linhui Dai, Hong Liu, Hao Tang, Zhiwei Wu, Pinhao Song*</sup></sub> | [Paper](https://arxiv.org/abs/2205.12785)/[Code](https://github.com/Ixiaohuihuihui/AO2-DETR)
 2022 | arXiv05 | G-Rep: Gaussian Representation for Arbitrary-Oriented Object Detection <br><sub><sup>*Liping Hou, Xue Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2205.11796)/[Code](https://github.com/open-mmlab/mmrotate)
 2022 | arXiv04 | Anchor-free Oriented Proposal Generator for Object Detection <br><sub><sup>*Gong Cheng, Jiabao Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2110.01931)/[Code](https://github.com/jbwang1997/AOPG)
 2021 | arXiv11 | Sampling Equivariant Self-attention Networks for Object Detection in Aerial Images <br><sub><sup>*Guo-Ye Yang, Xiang-Li Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2111.03420)/Code
@@ -67,6 +66,18 @@ Keep updating.
 2021 | GRSL | Optimization for Oriented Object Detection via Representation Invariance Loss | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://arxiv.org/abs/2103.11636)/[Code](https://github.com/ming71/RIDet) 
 2021 | TGRS | Anchor Retouching via Model Interaction for Robust Object Detection in Aerial Images <br><sub><sup>*Dong Liang, Qixiang Geng, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2112.06701)/[Code](https://github.com/QxGeng/DEA-Net)
 -->
+
+
+
+
+#### 2023
+
+**No.** | **Pub.** | **Title** | **Links**
+:-: | :-: | :-  | :-
+01 | TCSVT | AO2-DETR: Arbitrary-Oriented Object Detection Transformer <br><sub><sup>*Linhui Dai, Hong Liu, Hao Tang, Zhiwei Wu, Pinhao Song*</sup></sub> | [Paper](https://arxiv.org/abs/2205.12785)/[Code](https://github.com/Ixiaohuihuihui/AO2-DETR)
+
+
+
 
 
 #### 2022
@@ -166,6 +177,15 @@ Keep updating.
 
 
 
+## Instance Segmentation
+
+**Year** | **Pub.** | **Title** | **Authors** | **Links**
+:-: | :-: | :-  | :- | :- 
+2021 | TCYB | Semantic Attention and Scale Complementary Network for Instance Segmentation in Remote Sensing Images | Tianyang Zhang, Licheng Jiao, et al. | [Paper](https://ieeexplore.ieee.org/document/9523594)/Code
+2020 | CVPR | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery | Zhuo Zheng, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.html)/[Code](https://github.com/Z-Zheng/FarSeg)
+
+
+
 
 
 ## Small Object Detection 
@@ -177,13 +197,7 @@ Keep updating.
 2022 |  ECCV  | RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia*</sup></sub>  | [Paper](https://arxiv.org/abs/2208.08738)/[Code](https://github.com/Chasel-Tsui/mmdet-rfla)
 2022 |  arXiv | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
 2022 | CVPR | QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection <br> <sub><sup>*Chenhongyi Yang, Zehao Huang, Naiyan Wang*</sup></sub> | [Paper](https://arxiv.org/abs/2103.09136)/[Code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
-
-
-
-
-
-**Year** | **Pub.** | **Title** | **Authors** | **Links**
-:-: | :-: | :-  | :- | :-
+-- | -- | --  | -- | --
 2021 | arXiv07 | A Survey on Deep Domain Adaptation and Tiny Object Detection Challenges, Techniques and Datasets | Muhammed Muzammul, Xi Li | [Paper](https://arxiv.org/abs/2107.07927)/Code
 2021 | TMM | Extended Feature Pyramid Network for Small Object Detection | Chunfang Deng, et al. | [Paper](https://ieeexplore.ieee.org/document/9409729)/Code
 2021 | TMM | CrossNet: Detecting Objects as Crosses | Jiaxu Leng, Xinbo Gao, et al. | [Paper](https://ieeexplore.ieee.org/document/9357941)/Code
@@ -223,12 +237,6 @@ Keep updating.
 
 
 
-## Instance Segmentation
-
-**Year** | **Pub.** | **Title** | **Authors** | **Links**
-:-: | :-: | :-  | :- | :- 
-2021 | TCYB | Semantic Attention and Scale Complementary Network for Instance Segmentation in Remote Sensing Images | Tianyang Zhang, Licheng Jiao, et al. | [Paper](https://ieeexplore.ieee.org/document/9523594)/Code
-2020 | CVPR | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery | Zhuo Zheng, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.html)/[Code](https://github.com/Z-Zheng/FarSeg)
 
 
 
@@ -238,6 +246,7 @@ Keep updating.
 
 **Year** | **Name** | **Paper** | **Pub.** 
 :-: | :-: | :-  | :-
+2022 | [SODA](https://shaunyuan22.github.io/SODA/) | <font size=2>Towards Large-Scale Small Object Detection: Survey and Benchmarks `[OBB]`</font> | [Paper](https://arxiv.org/abs/2207.14096) 
 2021 | [**FAIR1M**](http://gaofen-challenge.com) | <font size=2>FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery `[OBB]`</font> | [arXiv](https://arxiv.org/abs/2103.05569)<br>[Intro-ch](https://mp.weixin.qq.com/s/r5aZf_TLoJ3BGb_ong95Vw)
 2021 | [SaRNet](https://github.com/michaelthoreau/SearchAndRescueNet) | <font size=2>SaRNet: A Dataset for Deep Learning Assisted Search and Rescue with Satellite Imagery `[HBB]`</font> | [arXiv](https://arxiv.org/abs/2107.12469)
 2021 | [AI-TOD](https://github.com/jwwangchn/AI-TOD) | <font size=2>Tiny Object Detection in Aerial Images `[HBB]`</font> | [ICPR](https://drive.google.com/file/d/1IiTp7gilwDCGr8QR_H9Covz8aVK7LXiI/view) 
