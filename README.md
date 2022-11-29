@@ -15,7 +15,7 @@ Keep updating.
 
 ## Contents:
 - [Overview](#Overview)
-- [Oriented OD](#Oriented-Object-Detection)
+- [Oriented Object Detection](#Oriented-Object-Detection)
 - [Instance Segmentation](#Instance-Segmentation)
 - [Small Object Detection](#Small-Object-Detection)
 - [UAV Object Dectection](#UAV-Object-Detection)
