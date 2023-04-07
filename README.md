@@ -74,6 +74,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+03 | CVPR  | Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection <br><sub><sup>*Yi Yu, Feipeng Da*</sup></sub> | [Paper](https://arxiv.org/abs/2211.06368)/Code
 02 | ICLR  | H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection <br><sub><sup>*Yang, Xue and Zhang, Gefan and Li, Wentong and Wang, Xuehui and Zhou, Yue and Yan, Junchi*</sup></sub> | [Paper](https://arxiv.org/abs/2210.06742)/[Code](https://github.com/yangxue0827/h2rbox-mmrotate)
 01 | TCSVT | AO2-DETR: Arbitrary-Oriented Object Detection Transformer <br><sub><sup>*Linhui Dai, Hong Liu, Hao Tang, Zhiwei Wu, Pinhao Song*</sup></sub> | [Paper](https://arxiv.org/abs/2205.12785)/[Code](https://github.com/Ixiaohuihuihui/AO2-DETR)
 
