@@ -4,7 +4,7 @@
 A curated list of awesome resources for generic object detection in aerial images. 
 Keep updating. 
 
-:heavy_exclamation_mark:Updated 2022-07-30.
+:heavy_exclamation_mark:Updated 2023-04.
 
 <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
@@ -34,7 +34,7 @@ Keep updating.
 07 | 2021 | **PAMI** | <span style="white-space:nowrap;">Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges `DOTA` &emsp;&emsp;</span>  <br><sub><sup>*Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2102.12219.pdf)/[Proj](https://captain-whu.github.io/DOTA/) 
 06 | 2020 | IJCV | Deep Learning for Generic Object Detection: A Survey `GOD`  <br><sub><sup>*Li Liu, Wanli Ouyang, et al.*</sup></sub>  | [Paper](https://link.springer.com/article/10.1007/s11263-019-01247-4#Abs1)/Code 
 05 | 2020 | JPRS | Object detection in optical remote sensing images: A survey and a new benchmark `HBB`  <br><sub><sup>*Ke Li, Gong Cheng, et al.*</sup></sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)/[Data](https://gcheng-nwpu.github.io/#Datasets)  
-04 | 2019 | TNN | Object Detection With Deep Learning: A Review `GOD`   <br><sub><sup>*Zhongqiu Zhao, et al.*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/document/8627998)/Code 
+04 | 2019 | TNNLS | Object Detection With Deep Learning: A Review `GOD`   <br><sub><sup>*Zhongqiu Zhao, et al.*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/document/8627998)/Code 
 03 | 2018 | JPRS | A review of accuracy assessment for object-based image analysis: From per-pixel to per-polygon approaches  <br><sub><sup>*Su Ye,  Rahul Rakshit, et al.*</sup></sub>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271618300947)/Code
 02 | 2018 | **CVPR** | DOTA: A Large-Scale Dataset for Object Detection in Aerial Images `DOTA`    <br><sub><sup>*Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, et al.*</sup></sub>  | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.pdf)/[Code](https://github.com/dingjiansw101/AerialDetection) 
 01 | 2016 | JPRS | A survey on object detection in optical remote sensing images   <br><sub><sup>*Gong Cheng, Junwei Han*</sup></sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271616300144)/Code
@@ -49,11 +49,9 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
-2022 | arXiv05 | G-Rep: Gaussian Representation for Arbitrary-Oriented Object Detection <br><sub><sup>*Liping Hou, Xue Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2205.11796)/[Code](https://github.com/open-mmlab/mmrotate)
-2022 | arXiv04 | Anchor-free Oriented Proposal Generator for Object Detection <br><sub><sup>*Gong Cheng, Jiabao Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2110.01931)/[Code](https://github.com/jbwang1997/AOPG)
 2021 | arXiv11 | Sampling Equivariant Self-attention Networks for Object Detection in Aerial Images <br><sub><sup>*Guo-Ye Yang, Xiang-Li Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2111.03420)/Code
 2021 | arXiv09 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection <br><sub><sup>*Steven Lang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
-2021 | arXiv06 | Oriented Object Detection with Transformer <br><sub><sup>*Teli Ma, et al.*</sup></sub>  | [Paper](https://arxiv.org/pdf/2106.03146.pdf)/Code
+
 
 
 <!-- 
@@ -65,6 +63,7 @@ Keep updating.
 2021 | TGRS | Align Deep Features for Oriented Object Detection | Jiaming Han, Jian Ding, et al. | [Paper](https://arxiv.org/abs/2008.09397)/[Code](https://github.com/csuhan/s2anet)
 2021 | GRSL | Optimization for Oriented Object Detection via Representation Invariance Loss | Qi Ming, Zhiqiang Zhou, et al. | [Paper](https://arxiv.org/abs/2103.11636)/[Code](https://github.com/ming71/RIDet) 
 2021 | TGRS | Anchor Retouching via Model Interaction for Robust Object Detection in Aerial Images <br><sub><sup>*Dong Liang, Qixiang Geng, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2112.06701)/[Code](https://github.com/QxGeng/DEA-Net)
+2021 | arXiv06 | Oriented Object Detection with Transformer <br><sub><sup>*Teli Ma, et al.*</sup></sub>  | [Paper](https://arxiv.org/pdf/2106.03146.pdf)/Code
 -->
 
 
@@ -74,6 +73,9 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+06 | CVPR  | Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection   <br><sub><sup>*Chang Xu, Jian Ding, Jinwang Wang, Chang Xu, Huai Yu, Lei Yu, Gui-Song Xia*</sup></sub> | Paper/[Code](https://github.com/Chasel-Tsui/mmrotate-dcfl)
+05 | CVPR  | SOOD: Towards Semi-Supervised Oriented Object Detection  <br><sub><sup>*Wei Hua, Dingkang Liang, jingyu li, Xiaolong Liu, Zhikang Zou, Xiaoqing Ye, Xiang Bai*</sup></sub> | Paper/Code
+04 | CVPR  | Knowledge Combination to Learn Rotated Detection Without Rotated Annotation <br><sub><sup>*Tianyu Zhu, Bryce Ferenczi, Pulak Purkait, Tom Drummond, Hamid Rezatofighi, Anton van den Hengel*</sup></sub> | [Paper](https://arxiv.org/abs/2304.02199)/Code
 03 | CVPR  | Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection <br><sub><sup>*Yi Yu, Feipeng Da*</sup></sub> | [Paper](https://arxiv.org/abs/2211.06368)/Code
 02 | ICLR  | H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection <br><sub><sup>*Yang, Xue and Zhang, Gefan and Li, Wentong and Wang, Xuehui and Zhou, Yue and Yan, Junchi*</sup></sub> | [Paper](https://arxiv.org/abs/2210.06742)/[Code](https://github.com/yangxue0827/h2rbox-mmrotate)
 01 | TCSVT | AO2-DETR: Arbitrary-Oriented Object Detection Transformer <br><sub><sup>*Linhui Dai, Hong Liu, Hao Tang, Zhiwei Wu, Pinhao Song*</sup></sub> | [Paper](https://arxiv.org/abs/2205.12785)/[Code](https://github.com/Ixiaohuihuihui/AO2-DETR)
@@ -86,6 +88,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+14 | TGRS | Anchor-free Oriented Proposal Generator for Object Detection <br><sub><sup>*Gong Cheng, Jiabao Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2110.01931)/[Code](https://github.com/jbwang1997/AOPG)
 13 | IJCV | On the Arbitrary-Oriented Object Detection: Classification Based Approaches Revisited <br><sub><sup>*Xue Yang, Junchi Yan*</sup></sub> | [Paper](https://link.springer.com/article/10.1007/s11263-022-01593-w?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_5&utm_content=etoc_springer_20220428)/[Code](https://github.com/SJTU-Thinklab-Det/OHDet_Tensorflow)
 12 | ECCV | EAutoDet: Efficient Architecture Search for Object Detection <br><sub><sup>*Xiaoxing Wang, Jiale Lin, Junchi Yan, Juanping Zhao, Xiaokang Yang*</sup></sub> | [Paper](https://arxiv.org/abs/2203.10747)/Code
 11 | PAMI | SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing  <br><sub><sup>*Xue Yang, Junchi Yan, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
@@ -201,26 +204,27 @@ Keep updating.
 2022 |  arXiv | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
 2022 | CVPR | QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection <br> <sub><sup>*Chenhongyi Yang, Zehao Huang, Naiyan Wang*</sup></sub> | [Paper](https://arxiv.org/abs/2103.09136)/[Code](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
 -- | -- | --  | -- | --
-2021 | arXiv07 | A Survey on Deep Domain Adaptation and Tiny Object Detection Challenges, Techniques and Datasets | Muhammed Muzammul, Xi Li | [Paper](https://arxiv.org/abs/2107.07927)/Code
-2021 | TMM | Extended Feature Pyramid Network for Small Object Detection | Chunfang Deng, et al. | [Paper](https://ieeexplore.ieee.org/document/9409729)/Code
-2021 | TMM | CrossNet: Detecting Objects as Crosses | Jiaxu Leng, Xinbo Gao, et al. | [Paper](https://ieeexplore.ieee.org/document/9357941)/Code
-2021 | CVPR | Dogfight: Detecting Drones from Drones Videos | M. Ashraf, W. Sultani, Mubarak Shah | [Paper](https://arxiv.org/abs/2103.17242)/Code
-2021 | WACV | Effective Fusion Factor in FPN for Tiny Object Detection | Yuqi Gong, Zhenjun Han, et al. | [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Gong_Effective_Fusion_Factor_in_FPN_for_Tiny_Object_Detection_WACV_2021_paper.pdf)/Code
+2021 | arXiv07 | A Survey on Deep Domain Adaptation and Tiny Object Detection Challenges, Techniques and Datasets <br> <sub><sup>*Muhammed Muzammul, Xi Li*</sup></sub> | [Paper](https://arxiv.org/abs/2107.07927)/Code
+2021 | TMM | Extended Feature Pyramid Network for Small Object Detection <br> <sub><sup>*Chunfang Deng, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/9409729)/Code
+2021 | TMM | CrossNet: Detecting Objects as Crosses <br> <sub><sup>*Jiaxu Leng, Xinbo Gao, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/9357941)/Code
+2021 | CVPR | Dot distance for tiny object detection in aerial images  <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Lei Yu*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Xu_Dot_Distance_for_Tiny_Object_Detection_in_Aerial_Images_CVPRW_2021_paper.html)/Code
+2021 | CVPR | Dogfight: Detecting Drones from Drones Videos <br> <sub><sup>*M. Ashraf, W. Sultani, Mubarak Shah*</sup></sub> | [Paper](https://arxiv.org/abs/2103.17242)/Code
+2021 | WACV | Effective Fusion Factor in FPN for Tiny Object Detection <br> <sub><sup>*Yuqi Gong, Zhenjun Han, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Gong_Effective_Fusion_Factor_in_FPN_for_Tiny_Object_Detection_WACV_2021_paper.pdf)/Code
 ||---|---|---|---|
-2020 | IJCV | Multi-task Generative Adversarial Network for Detecting Small Objects in the Wild | Yongqiang Zhang, Yancheng Bai, et al. | [Paper](https://link.springer.com/article/10.1007/s11263-020-01301-6)/[CVPR18](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Finding_Tiny_Faces_CVPR_2018_paper.pdf)<br>[ECCV18](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf)/Code 
-2020 | TCYB | Context-Aware Block Net for Small Object Detection | Lisha Cui, et al. | [Paper](https://ieeexplore.ieee.org/document/9151360)/Code
-2020 | MM | CODAN: Counting-driven Attention Network for Vehicle Detection in Congested Scenes | Wei Li, et al. | [Paper](https://dl.acm.org/doi/10.1145/3394171.3413945)/Code|
+2020 | IJCV | Multi-task Generative Adversarial Network for Detecting Small Objects in the Wild <br> <sub><sup>*Yongqiang Zhang, Yancheng Bai, et al.*</sup></sub> | [Paper](https://link.springer.com/article/10.1007/s11263-020-01301-6)/[CVPR18](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Finding_Tiny_Faces_CVPR_2018_paper.pdf)<br>[ECCV18](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf)/Code 
+2020 | TCYB | Context-Aware Block Net for Small Object Detection <br> <sub><sup>*Lisha Cui, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/9151360)/Code
+2020 | MM | CODAN: Counting-driven Attention Network for Vehicle Detection in Congested Scenes <br> <sub><sup>*Wei Li, et al.*</sup></sub> | [Paper](https://dl.acm.org/doi/10.1145/3394171.3413945)/Code|
 ||---|---|---|---|
-2019 | arXiv02 | Augmentation for small object detection | Mate Kisantal, et al. | [Paper](https://arxiv.org/abs/1902.07296)/Code
-2019 | TCSVT | Detecting Small Objects Using a Channel-Aware Deconvolutional Network | Kaiwen Duan, Dawei Du, et al. | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8669953)/Code
-2019 | TGRS | R2 -CNN: Fast Tiny Object Detection in Large-Scale Remote Sensing Images | J. Pang, Jianping Shi, et al. | [Paper](https://ieeexplore.ieee.org/document/8672899)/Code
-2019 | ICCV | Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection | Junhyug Noh, et al. | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.html)/Code
-2019 | ICCV | Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images | Huan Wang, Luping Zhou, Lei Wang | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Miss_Detection_vs._False_Alarm_Adversarial_Learning_for_Small_Object_ICCV_2019_paper.pdf)/[Code](https://github.com/wanghuanphd/MDvsFA_cGAN)
-2019 | MM | Small and Dense Commodity Object Detection with Multi-Receptive Field Attention | Zhong  Ji, Yanwei Pang, et al. | [Paper](https://dl.acm.org/doi/abs/10.1145/3343031.3351064)/Code 
+2019 | arXiv02 | Augmentation for small object detection <br> <sub><sup>*Mate Kisantal, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/1902.07296)/Code
+2019 | TCSVT | Detecting Small Objects Using a Channel-Aware Deconvolutional Network   <br> <sub><sup>*Kaiwen Duan, Dawei Du, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8669953)/Code
+2019 | TGRS | R2 -CNN: Fast Tiny Object Detection in Large-Scale Remote Sensing Images <br> <sub><sup>*J. Pang, Jianping Shi, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/8672899)/Code
+2019 | ICCV | Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection <br> <sub><sup>*Junhyug Noh, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.html)/Code
+2019 | ICCV | Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images <br> <sub><sup>*Huan Wang, Luping Zhou, Lei Wang*</sup></sub> | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Miss_Detection_vs._False_Alarm_Adversarial_Learning_for_Small_Object_ICCV_2019_paper.pdf)/[Code](https://github.com/wanghuanphd/MDvsFA_cGAN)
+2019 | MM | Small and Dense Commodity Object Detection with Multi-Receptive Field Attention <br> <sub><sup>*Zhong  Ji, Yanwei Pang, et al.*</sup></sub> | [Paper](https://dl.acm.org/doi/abs/10.1145/3343031.3351064)/Code 
 ||---|---|---|---|
-2018 | CVPR | Finding Tiny Faces in the Wild With Generative Adversarial Network | Yancheng Bai, Bernard Ghanem, et al. | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Bai_Finding_Tiny_Faces_CVPR_2018_paper.html)/Code
-2017 | ICCV | Focal Loss for Dense Object Detection | Tsung-Yi, Kaiming He, et al. | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)/[Code](https://github.com/facebookresearch/Detectron)|
-2017 | CVPR | <span style="white-space:nowrap;">Perceptual Generative Adversarial Networks for Small Object Detection&emsp;</span>  | <span style="white-space:nowrap;">Jianan Li, Tingfa Xu, et al.&emsp;</span>  | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Perceptual_Generative_Adversarial_CVPR_2017_paper.pdf)/Code
+2018 | CVPR | Finding Tiny Faces in the Wild With Generative Adversarial Network <br> <sub><sup>*Yancheng Bai, Bernard Ghanem, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Bai_Finding_Tiny_Faces_CVPR_2018_paper.html)/Code
+2017 | ICCV | Focal Loss for Dense Object Detection <br> <sub><sup>*Tsung-Yi, Kaiming He, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)/[Code](https://github.com/facebookresearch/Detectron)|
+2017 | CVPR | Perceptual Generative Adversarial Networks for Small Object Detection  <br> <sub><sup>*Jianan Li, Tingfa Xu, et al.*</sup></sub>  | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Perceptual_Generative_Adversarial_CVPR_2017_paper.pdf)/Code
 
 
 
