@@ -30,8 +30,8 @@ Keep updating.
 
 **No.** | **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-:  | :- | :- 
-08 | 2023 |  arXiv | Oriented Object Detection in Optical Remote Sensing Images using Deep Learning: A Survey <br> <sub><sup>*Kun Wang, Zi Wang, Zhang Li, Ang Su, Xichao Teng, Minhao Liu, Qifeng Yu*</sup></sub>  | [Paper](https://arxiv.org/abs/2302.10473)/Code
-08 | 2022 |  arXiv | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
+09 | 2023 |  PAMI  | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Xingxing Xie, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
+08 | 2023 |  arXiv | Oriented Object Detection in Optical Remote Sensing Images using Deep Learning: A Survey <br> <sub><sup>*Kun Wang, Zi Wang, Zhang Li, Ang Su, Xichao Teng, Minhao Liu, Qifeng Yu*</sup></sub>  | [Paper](https://arxiv.org/abs/2302.10473)/Code 
 07 | 2021 | **PAMI** | <span style="white-space:nowrap;">Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges `DOTA` &emsp;&emsp;</span>  <br><sub><sup>*Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2102.12219.pdf)/[Proj](https://captain-whu.github.io/DOTA/) 
 06 | 2020 | IJCV | Deep Learning for Generic Object Detection: A Survey `GOD`  <br><sub><sup>*Li Liu, Wanli Ouyang, et al.*</sup></sub>  | [Paper](https://link.springer.com/article/10.1007/s11263-019-01247-4#Abs1)/Code 
 05 | 2020 | JPRS | Object detection in optical remote sensing images: A survey and a new benchmark `HBB`  <br><sub><sup>*Ke Li, Gong Cheng, et al.*</sup></sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)/[Data](https://gcheng-nwpu.github.io/#Datasets)  
