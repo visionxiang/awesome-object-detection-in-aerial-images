@@ -74,6 +74,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+07 | PAMI  | Detecting rotated objects as Gaussian distributions and its 3-D generalization  <br><sub><sup>*Yang, Xue and Zhang, Gefan and Yang, Xiaojiang and Zhou, Yue and Wang, Wentao and Tang, Jin and He, Tao and Yan, Junchi*</sup></sub> | [Paper](https://arxiv.org/abs/2209.10839)/Code 
 06 | CVPR  | Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection   <br><sub><sup>*Chang Xu, Jian Ding, Jinwang Wang, Chang Xu, Huai Yu, Lei Yu, Gui-Song Xia*</sup></sub> | Paper/[Code](https://github.com/Chasel-Tsui/mmrotate-dcfl)
 05 | CVPR  | SOOD: Towards Semi-Supervised Oriented Object Detection  <br><sub><sup>*Wei Hua, Dingkang Liang, jingyu li, Xiaolong Liu, Zhikang Zou, Xiaoqing Ye, Xiang Bai*</sup></sub> | Paper/Code
 04 | CVPR  | Knowledge Combination to Learn Rotated Detection Without Rotated Annotation <br><sub><sup>*Tianyu Zhu, Bryce Ferenczi, Pulak Purkait, Tom Drummond, Hamid Rezatofighi, Anton van den Hengel*</sup></sub> | [Paper](https://arxiv.org/abs/2304.02199)/Code
