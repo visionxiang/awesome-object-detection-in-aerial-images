@@ -50,8 +50,7 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
-2021 | arXiv11 | Sampling Equivariant Self-attention Networks for Object Detection in Aerial Images <br><sub><sup>*Guo-Ye Yang, Xiang-Li Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2111.03420)/Code
-2021 | arXiv09 | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection <br><sub><sup>*Steven Lang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
+2022 | arXiv | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection <br><sub><sup>*Steven Lang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
 
 
 
@@ -74,6 +73,8 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+10 | AAAI  | Spatial Transform Decoupling for Oriented Object Detection   <br><sub><sup>*Hongtian Yu, Yunjie Tian, Qixiang Ye, Yunfan Liu*</sup></sub> | [Paper](https://arxiv.org/abs/2308.10561)/[Code](https://github.com/yuhongtian17/Spatial-Transform-Decoupling)
+09 | TIP   | Sampling Equivariant Self-attention Networks for Object Detection in Aerial Images <br><sub><sup>*Guo-Ye Yang; Xiang-Li Li; Zi-Kai Xiao; Tai-Jiang Mu; Ralph R. Martin; Shi-Min Hu*</sup></sub> | [Paper](https://arxiv.org/abs/2111.03420)/Code
 08 | PR    | RoMP-Transformer: Rotational bounding box with Multi-level feature Pyramid Transformer for object detection   <br><sub><sup>*Joonhyeok Moon, Munsu Jeon, Siheon Jeong, Ki-Yong Oh*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007641?dgcid=raven_sd_aip_email)/Code
 07 | PAMI  | Detecting rotated objects as Gaussian distributions and its 3-D generalization  <br><sub><sup>*Yang, Xue and Zhang, Gefan and Yang, Xiaojiang and Zhou, Yue and Wang, Wentao and Tang, Jin and He, Tao and Yan, Junchi*</sup></sub> | [Paper](https://arxiv.org/abs/2209.10839)/Code 
 06 | CVPR  | Dynamic Coarse-to-Fine Learning for Oriented Tiny Object Detection   <br><sub><sup>*Chang Xu, Jian Ding, Jinwang Wang, Chang Xu, Huai Yu, Lei Yu, Gui-Song Xia*</sup></sub> | Paper/[Code](https://github.com/Chasel-Tsui/mmrotate-dcfl)
