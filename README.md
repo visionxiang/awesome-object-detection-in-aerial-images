@@ -73,8 +73,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
-11 | ICCV  | Large Selective Kernel Network for Remote Sensing Object Detection  <br><sub><sup>*Yuxuan Li, Qibin Hou, Zhaohui Zheng, Ming-Ming Cheng, Jian Yang, and Xiang Li*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.pdf
-)/[Code](https://github.com/zcablii/LSKNet)
+11 | ICCV  | Large Selective Kernel Network for Remote Sensing Object Detection  <br><sub><sup>*Yuxuan Li, Qibin Hou, Zhaohui Zheng, Ming-Ming Cheng, Jian Yang, and Xiang Li*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.pdf)/[Code](https://github.com/zcablii/LSKNet)
 10 | AAAI  | Spatial Transform Decoupling for Oriented Object Detection   <br><sub><sup>*Hongtian Yu, Yunjie Tian, Qixiang Ye, Yunfan Liu*</sup></sub> | [Paper](https://arxiv.org/abs/2308.10561)/[Code](https://github.com/yuhongtian17/Spatial-Transform-Decoupling)
 09 | TIP   | Sampling Equivariant Self-attention Networks for Object Detection in Aerial Images <br><sub><sup>*Guo-Ye Yang; Xiang-Li Li; Zi-Kai Xiao; Tai-Jiang Mu; Ralph R. Martin; Shi-Min Hu*</sup></sub> | [Paper](https://arxiv.org/abs/2111.03420)/Code
 08 | PR    | RoMP-Transformer: Rotational bounding box with Multi-level feature Pyramid Transformer for object detection   <br><sub><sup>*Joonhyeok Moon, Munsu Jeon, Siheon Jeong, Ki-Yong Oh*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007641?dgcid=raven_sd_aip_email)/Code
