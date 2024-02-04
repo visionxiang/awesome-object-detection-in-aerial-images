@@ -204,6 +204,7 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
+2024 |  TCSVT | Save the Tiny, Save the All: Hierarchical Activation Network for Tiny Object Detection   <br> <sub><sup>*Guangqian Guo; Pengfei Chen; Xuehui Yu; Zhenjun Han; Qixiang Ye; Shan Gao*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/document/10146336?source=tocalert&dld=Z21haWwuY29t)/Code
 2022 |  JPRS  | Detecting tiny objects in aerial images: A normalized Wasserstein distance and a new benchmark <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yua, Lei Yua, Gui-SongXi*</sup></sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001599#!)/[Code](https://github.com/jwwangchn/NWD)
 2022 |  ECCV  | RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia*</sup></sub>  | [Paper](https://arxiv.org/abs/2208.08738)/[Code](https://github.com/Chasel-Tsui/mmdet-rfla)
 2022 |  arXiv | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
