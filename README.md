@@ -50,6 +50,7 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
+2024 | arXiv | GOOD: Towards Domain Generalized Orientated Object Detection   <br><sub><sup>*GOOD: Towards Domain Generalized Orientated Object Detection*</sup></sub> | [Paper](https://arxiv.org/abs/2402.12765)/Code
 2022 | arXiv | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection <br><sub><sup>*Steven Lang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
 
 
