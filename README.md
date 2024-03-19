@@ -72,6 +72,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+|   02  | CVPR  | Theoretically Achieving Continuous Representation of Oriented Bounding Boxes  <br> <sup><sub>*Zikai Xiao, Guo-Ye Yang, Xue Yang, Tai-Jiang Mu, Junchi Yan, Shi-min Hu*</sub></sup>  | [Paper](https://arxiv.org/abs/2402.18975v1)/[Code](https://github.com/Jittor/JDet)
 |   01  | CVPR  | Poly Kernel Inception Network for Remote Sensing Detection   <br> <sup><sub>*Xinhao Cai, Qiuxia Lai, Yuwei Wang, Wenguan Wang, Zeren Sun, Yazhou Yao*</sub></sup>  | [Paper](https://arxiv.org/abs/2403.06258)/Code
 
 
