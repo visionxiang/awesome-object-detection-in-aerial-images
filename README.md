@@ -68,6 +68,15 @@ Keep updating.
 
 
 
+#### 2024
+
+**No.** | **Pub.** | **Title** | **Links**
+:-: | :-: | :-  | :-
+|   01  | CVPR  | Poly Kernel Inception Network for Remote Sensing Detection   <br> <sup><sub>*Xinhao Cai, Qiuxia Lai, Yuwei Wang, Wenguan Wang, Zeren Sun, Yazhou Yao*</sub></sup>  | [Paper](https://arxiv.org/abs/2403.06258)/Code
+
+
+
+
 
 #### 2023
 
