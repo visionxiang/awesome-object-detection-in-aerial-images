@@ -52,6 +52,7 @@ Keep updating.
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
 2024 | arXiv | GOOD: Towards Domain Generalized Orientated Object Detection   <br><sub><sup>*Qi Bi, Beichen Zhou, Jingjun Yi, Wei Ji, Haolan Zhan, Gui-Song Xia*</sup></sub> | [Paper](https://arxiv.org/abs/2402.12765)/Code
+2023  | arXiv | P2RBox: A Single Point is All You Need for Oriented Object Detection   <br><sub><sup>*Guangming Cao, Xuehui Yu, Wenwen Yu, Xumeng Han, Xue Yang, Guorong Li, Jianbin Jiao, Zhenjun Han*</sup></sub> | [Paper](https://arxiv.org/abs/2311.13128)/Code
 2022 | arXiv | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection <br><sub><sup>*Steven Lang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
 
 
@@ -89,6 +90,8 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+12 | arXiv | Adaptive Dense Pseudo Label Selection for Semi-supervised Oriented Object Detection   <br><sub><sup>*Tong Zhao, Qiang Fang, Shuohao Shi, Xin Xu*</sup></sub> | [Paper](https://arxiv.org/abs/2311.12608)/Code 
+11 | ICCV  | Adaptive Rotated Convolution for Rotated Object Detection   <br><sub><sup>*Yifan Pu, Yiru Wang, Zhuofan Xia, Yizeng Han, Yulin Wang, Weihao Gan, Zidong Wang, Shiji Song, Gao Huang*</sup></sub> | [Paper](https://arxiv.org/abs/2303.07820)/[Code](https://github.com/LeapLabTHU/ARC) 
 10 | ICCV  | Large Selective Kernel Network for Remote Sensing Object Detection  <br><sub><sup>*Yuxuan Li, Qibin Hou, Zhaohui Zheng, Ming-Ming Cheng, Jian Yang, and Xiang Li*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.pdf)/[Code](https://github.com/zcablii/LSKNet)
 09 | TIP   | Sampling Equivariant Self-attention Networks for Object Detection in Aerial Images <br><sub><sup>*Guo-Ye Yang; Xiang-Li Li; Zi-Kai Xiao; Tai-Jiang Mu; Ralph R. Martin; Shi-Min Hu*</sup></sub> | [Paper](https://arxiv.org/abs/2111.03420)/Code
 08 | PR    | RoMP-Transformer: Rotational bounding box with Multi-level feature Pyramid Transformer for object detection   <br><sub><sup>*Joonhyeok Moon, Munsu Jeon, Siheon Jeong, Ki-Yong Oh*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007641?dgcid=raven_sd_aip_email)/Code
@@ -222,6 +225,7 @@ Keep updating.
 :-: | :-: | :-  | :- 
 2024 |  TCSVT | Save the Tiny, Save the All: Hierarchical Activation Network for Tiny Object Detection   <br> <sub><sup>*Guangqian Guo; Pengfei Chen; Xuehui Yu; Zhenjun Han; Qixiang Ye; Shan Gao*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/document/10146336?source=tocalert&dld=Z21haWwuY29t)/Code
 2023 | arXiv | Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art    <br> <sub><sup>*Aref Miri Rekavandi, Shima Rashidi, Farid Boussaid, Stephen Hoefs, Emre Akbas, Mohammed Bennamoun*</sup></sub>  | [Paper](https://arxiv.org/abs/2309.04902)/[Code](https://github.com/arekavandi/Transformer-SOD)   
+2023 |  ICCV | Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning   <br> <sub><sup>*Xiang Yuan, Gong Cheng, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2308.09534)/[Code](https://github.com/shaunyuan22/CFINet) 
 2023 |  PAMI | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
 2022 |  JPRS  | Detecting tiny objects in aerial images: A normalized Wasserstein distance and a new benchmark <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yua, Lei Yua, Gui-SongXi*</sup></sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001599#!)/[Code](https://github.com/jwwangchn/NWD)
 2022 |  ECCV  | RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia*</sup></sub>  | [Paper](https://arxiv.org/abs/2208.08738)/[Code](https://github.com/Chasel-Tsui/mmdet-rfla)
