@@ -78,6 +78,7 @@ Keep updating.
 |   03  | CVPR  | Poly Kernel Inception Network for Remote Sensing Detection   <br> <sup><sub>*Xinhao Cai, Qiuxia Lai, Yuwei Wang, Wenguan Wang, Zeren Sun, Yazhou Yao*</sub></sup>  | [Paper](https://arxiv.org/abs/2403.06258)/Code
 |   02  | AAAI | FRED: Towards a Full Rotation-Equivariance in Aerial Image Object Detection  <br> <sup><sub>*Chanho Lee, Jinsu Son, Hyounguk Shon, Yunho Jeon, Junmo Kim*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.06159)/Code
 |   01  | AAAI | Spatial Transform Decoupling for Oriented Object Detection   <br><sub><sup>*Hongtian Yu, Yunjie Tian, Qixiang Ye, Yunfan Liu*</sup></sub> | [Paper](https://arxiv.org/abs/2308.10561)/[Code](https://github.com/yuhongtian17/Spatial-Transform-Decoupling)
+|   01  | TGRS | ARS-DETR: Aspect Ratio-Sensitive Detection Transformer for Aerial Oriented Object Detection   <br><sub><sup>*Ying Zeng, Yushi Chen, Xue Yang, Qingyun Li, Junchi Yan*</sup></sub> | [Paper](https://arxiv.org/abs/2303.04989)/[Code](https://github.com/httle/ARS-DETR)
 
 
 
