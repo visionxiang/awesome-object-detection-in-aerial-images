@@ -73,11 +73,11 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
-|   04  | CVPR	| Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation   <br> <sup><sub>*Sihan Liu, Yiwei Ma, Xiaoqing Zhang, Haowei Wang, Jiayi Ji, Xiaoshuai Sun, Rongrong Ji*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.12470)/[Code](https://github.com/Lsan2401/RMSIN)
-|   03  | CVPR  | Theoretically Achieving Continuous Representation of Oriented Bounding Boxes  <br> <sup><sub>*Zikai Xiao, Guo-Ye Yang, Xue Yang, Tai-Jiang Mu, Junchi Yan, Shi-min Hu*</sub></sup>  | [Paper](https://arxiv.org/abs/2402.18975v1)/[Code](https://github.com/Jittor/JDet)
-|   02  | CVPR  | Poly Kernel Inception Network for Remote Sensing Detection   <br> <sup><sub>*Xinhao Cai, Qiuxia Lai, Yuwei Wang, Wenguan Wang, Zeren Sun, Yazhou Yao*</sub></sup>  | [Paper](https://arxiv.org/abs/2403.06258)/Code
-|   01  | AAAI | FRED: Towards a Full Rotation-Equivariance in Aerial Image Object Detection  <br> <sup><sub>*Chanho Lee, Jinsu Son, Hyounguk Shon, Yunho Jeon, Junmo Kim*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.06159)/Code
-
+|   05  | CVPR	| Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation   <br> <sup><sub>*Sihan Liu, Yiwei Ma, Xiaoqing Zhang, Haowei Wang, Jiayi Ji, Xiaoshuai Sun, Rongrong Ji*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.12470)/[Code](https://github.com/Lsan2401/RMSIN)
+|   04  | CVPR  | Theoretically Achieving Continuous Representation of Oriented Bounding Boxes  <br> <sup><sub>*Zikai Xiao, Guo-Ye Yang, Xue Yang, Tai-Jiang Mu, Junchi Yan, Shi-min Hu*</sub></sup>  | [Paper](https://arxiv.org/abs/2402.18975v1)/[Code](https://github.com/Jittor/JDet)
+|   03  | CVPR  | Poly Kernel Inception Network for Remote Sensing Detection   <br> <sup><sub>*Xinhao Cai, Qiuxia Lai, Yuwei Wang, Wenguan Wang, Zeren Sun, Yazhou Yao*</sub></sup>  | [Paper](https://arxiv.org/abs/2403.06258)/Code
+|   02  | AAAI | FRED: Towards a Full Rotation-Equivariance in Aerial Image Object Detection  <br> <sup><sub>*Chanho Lee, Jinsu Son, Hyounguk Shon, Yunho Jeon, Junmo Kim*</sub></sup>  | [Paper](https://arxiv.org/abs/2401.06159)/Code
+|   01  | AAAI | Spatial Transform Decoupling for Oriented Object Detection   <br><sub><sup>*Hongtian Yu, Yunjie Tian, Qixiang Ye, Yunfan Liu*</sup></sub> | [Paper](https://arxiv.org/abs/2308.10561)/[Code](https://github.com/yuhongtian17/Spatial-Transform-Decoupling)
 
 
 
@@ -87,8 +87,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
-11 | ICCV  | Large Selective Kernel Network for Remote Sensing Object Detection  <br><sub><sup>*Yuxuan Li, Qibin Hou, Zhaohui Zheng, Ming-Ming Cheng, Jian Yang, and Xiang Li*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.pdf)/[Code](https://github.com/zcablii/LSKNet)
-10 | AAAI  | Spatial Transform Decoupling for Oriented Object Detection   <br><sub><sup>*Hongtian Yu, Yunjie Tian, Qixiang Ye, Yunfan Liu*</sup></sub> | [Paper](https://arxiv.org/abs/2308.10561)/[Code](https://github.com/yuhongtian17/Spatial-Transform-Decoupling)
+10 | ICCV  | Large Selective Kernel Network for Remote Sensing Object Detection  <br><sub><sup>*Yuxuan Li, Qibin Hou, Zhaohui Zheng, Ming-Ming Cheng, Jian Yang, and Xiang Li*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.pdf)/[Code](https://github.com/zcablii/LSKNet)
 09 | TIP   | Sampling Equivariant Self-attention Networks for Object Detection in Aerial Images <br><sub><sup>*Guo-Ye Yang; Xiang-Li Li; Zi-Kai Xiao; Tai-Jiang Mu; Ralph R. Martin; Shi-Min Hu*</sup></sub> | [Paper](https://arxiv.org/abs/2111.03420)/Code
 08 | PR    | RoMP-Transformer: Rotational bounding box with Multi-level feature Pyramid Transformer for object detection   <br><sub><sup>*Joonhyeok Moon, Munsu Jeon, Siheon Jeong, Ki-Yong Oh*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007641?dgcid=raven_sd_aip_email)/Code
 07 | PAMI  | Detecting rotated objects as Gaussian distributions and its 3-D generalization  <br><sub><sup>*Yang, Xue and Zhang, Gefan and Yang, Xiaojiang and Zhou, Yue and Wang, Wentao and Tang, Jin and He, Tao and Yan, Junchi*</sup></sub> | [Paper](https://arxiv.org/abs/2209.10839)/Code 
@@ -204,10 +203,11 @@ Keep updating.
 
 ## Instance Segmentation
 
-**Year** | **Pub.** | **Title** | **Authors** | **Links**
-:-: | :-: | :-  | :- | :- 
-2021 | TCYB | Semantic Attention and Scale Complementary Network for Instance Segmentation in Remote Sensing Images | Tianyang Zhang, Licheng Jiao, et al. | [Paper](https://ieeexplore.ieee.org/document/9523594)/Code
-2020 | CVPR | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery | Zhuo Zheng, et al. | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.html)/[Code](https://github.com/Z-Zheng/FarSeg)
+**Year** | **Pub.** | **Title** | **Links**
+:-: | :-: | :- | :- 
+2024 | CVPR	| Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation   <br> <sup><sub>*Sihan Liu, Yiwei Ma, Xiaoqing Zhang, Haowei Wang, Jiayi Ji, Xiaoshuai Sun, Rongrong Ji*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.12470)/[Code](https://github.com/Lsan2401/RMSIN)
+2021 | TCYB | Semantic Attention and Scale Complementary Network for Instance Segmentation in Remote Sensing Images  <br> <sup><sub>*Tianyang Zhang, Licheng Jiao, et al.*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9523594)/Code
+2020 | CVPR | Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery   <br> <sup><sub>*Zhuo Zheng, et al.*</sub></sup> | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.html)/[Code](https://github.com/Z-Zheng/FarSeg)
 
 
 
@@ -219,6 +219,7 @@ Keep updating.
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
 2024 |  TCSVT | Save the Tiny, Save the All: Hierarchical Activation Network for Tiny Object Detection   <br> <sub><sup>*Guangqian Guo; Pengfei Chen; Xuehui Yu; Zhenjun Han; Qixiang Ye; Shan Gao*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/document/10146336?source=tocalert&dld=Z21haWwuY29t)/Code
+2023 | arXiv | Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art    <br> <sub><sup>*Aref Miri Rekavandi, Shima Rashidi, Farid Boussaid, Stephen Hoefs, Emre Akbas, Mohammed Bennamoun*</sup></sub>  | [Paper](https://arxiv.org/abs/2309.04902)/[Code](https://github.com/arekavandi/Transformer-SOD)   
 2023 |  PAMI | Towards Large-Scale Small Object Detection: Survey and Benchmarks <br> <sub><sup>*Gong Cheng, Xiang Yuan, Xiwen Yao, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.14096)/[Data](https://shaunyuan22.github.io/SODA/)
 2022 |  JPRS  | Detecting tiny objects in aerial images: A normalized Wasserstein distance and a new benchmark <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yua, Lei Yua, Gui-SongXi*</sup></sub>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622001599#!)/[Code](https://github.com/jwwangchn/NWD)
 2022 |  ECCV  | RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection <br> <sub><sup>*Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia*</sup></sub>  | [Paper](https://arxiv.org/abs/2208.08738)/[Code](https://github.com/Chasel-Tsui/mmdet-rfla)
