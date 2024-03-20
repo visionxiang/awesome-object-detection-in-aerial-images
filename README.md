@@ -73,6 +73,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+|   03  | CVPR	| Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation   <br> <sup><sub>*Sihan Liu, Yiwei Ma, Xiaoqing Zhang, Haowei Wang, Jiayi Ji, Xiaoshuai Sun, Rongrong Ji*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.12470)/[Code](https://github.com/Lsan2401/RMSIN)
 |   02  | CVPR  | Theoretically Achieving Continuous Representation of Oriented Bounding Boxes  <br> <sup><sub>*Zikai Xiao, Guo-Ye Yang, Xue Yang, Tai-Jiang Mu, Junchi Yan, Shi-min Hu*</sub></sup>  | [Paper](https://arxiv.org/abs/2402.18975v1)/[Code](https://github.com/Jittor/JDet)
 |   01  | CVPR  | Poly Kernel Inception Network for Remote Sensing Detection   <br> <sup><sub>*Xinhao Cai, Qiuxia Lai, Yuwei Wang, Wenguan Wang, Zeren Sun, Yazhou Yao*</sub></sup>  | [Paper](https://arxiv.org/abs/2403.06258)/Code
 
