@@ -51,6 +51,7 @@ Keep updating.
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
+2024 | arXiv | MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining   <br><sub><sup>*Di Wang, Jing Zhang, Minqiang Xu, Lin Liu, Dongsheng Wang, Erzhong Gao, Chengxi Han, Haonan Guo, Bo Du, Dacheng Tao, Liangpei Zhang*</sup></sub> | [Paper](https://arxiv.org/abs/2403.13430)/[Code](https://github.com/ViTAE-Transformer/MTP)
 2024 | arXiv | GOOD: Towards Domain Generalized Orientated Object Detection   <br><sub><sup>*Qi Bi, Beichen Zhou, Jingjun Yi, Wei Ji, Haolan Zhan, Gui-Song Xia*</sup></sub> | [Paper](https://arxiv.org/abs/2402.12765)/Code
 2023  | arXiv | P2RBox: A Single Point is All You Need for Oriented Object Detection   <br><sub><sup>*Guangming Cao, Xuehui Yu, Wenwen Yu, Xumeng Han, Xue Yang, Guorong Li, Jianbin Jiao, Zhenjun Han*</sup></sub> | [Paper](https://arxiv.org/abs/2311.13128)/Code
 2022 | arXiv | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection <br><sub><sup>*Steven Lang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
