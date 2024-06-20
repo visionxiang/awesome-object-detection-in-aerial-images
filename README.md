@@ -76,6 +76,7 @@ Keep updating.
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+|   06  | CVPR  | WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification   <br> <sup><sub>*Satish Kumar, Bowen Zhang, Chandrakanth Gudavalli, Connor Levenson, Lacey Hughey, Jared A. Stabach, Irene Amoke, Gordon Ojwang, Joseph Mukeka, Stephen Mwiu, Joseph Ogutu, Howard Frederick, B.S. Manjunath*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kumar_WildlifeMapper_Aerial_Image_Analysis_for_Multi-Species_Detection_and_Identification_CVPR_2024_paper.html)/[Code](https://github.com/UCSB-VRL/WildlifeMapper)
 |   05  | CVPR	| Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation   <br> <sup><sub>*Sihan Liu, Yiwei Ma, Xiaoqing Zhang, Haowei Wang, Jiayi Ji, Xiaoshuai Sun, Rongrong Ji*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.12470)/[Code](https://github.com/Lsan2401/RMSIN)
 |   04  | CVPR  | Theoretically Achieving Continuous Representation of Oriented Bounding Boxes  <br> <sup><sub>*Zikai Xiao, Guo-Ye Yang, Xue Yang, Tai-Jiang Mu, Junchi Yan, Shi-min Hu*</sub></sup>  | [Paper](https://arxiv.org/abs/2402.18975v1)/[Code](https://github.com/Jittor/JDet)
 |   03  | CVPR  | Poly Kernel Inception Network for Remote Sensing Detection   <br> <sup><sub>*Xinhao Cai, Qiuxia Lai, Yuwei Wang, Wenguan Wang, Zeren Sun, Yazhou Yao*</sub></sup>  | [Paper](https://arxiv.org/abs/2403.06258)/Code
