@@ -1,12 +1,11 @@
 
-# Object Detection in Aerial Images 
+# Object Detection in Aerial Images [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources for generic object detection in aerial images. 
-Keep updating. 
+🔥 A curated list of awesome resources for generic object detection in aerial images.
 
-:heavy_exclamation_mark:Updated 2024-03.
+:heavy_exclamation_mark: Updated at 2024-06.
 
-<!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
+
 
 
 
