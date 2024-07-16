@@ -50,7 +50,6 @@
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
-2024 | arXiv | MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining   <br><sub><sup>*Di Wang, Jing Zhang, Minqiang Xu, Lin Liu, Dongsheng Wang, Erzhong Gao, Chengxi Han, Haonan Guo, Bo Du, Dacheng Tao, Liangpei Zhang*</sup></sub> | [Paper](https://arxiv.org/abs/2403.13430)/[Code](https://github.com/ViTAE-Transformer/MTP)
 2024 | arXiv | GOOD: Towards Domain Generalized Orientated Object Detection   <br><sub><sup>*Qi Bi, Beichen Zhou, Jingjun Yi, Wei Ji, Haolan Zhan, Gui-Song Xia*</sup></sub> | [Paper](https://arxiv.org/abs/2402.12765)/Code
 2023  | arXiv | P2RBox: A Single Point is All You Need for Oriented Object Detection   <br><sub><sup>*Guangming Cao, Xuehui Yu, Wenwen Yu, Xumeng Han, Xue Yang, Guorong Li, Jianbin Jiao, Zhenjun Han*</sup></sub> | [Paper](https://arxiv.org/abs/2311.13128)/Code
 2022 | arXiv | DAFNe: A One-Stage Anchor-Free Deep Model for Oriented Object Detection <br><sub><sup>*Steven Lang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.06148)/[Code](https://github.com/steven-lang/DAFNe) 
@@ -75,6 +74,7 @@
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+|   15  | JSTARS | MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining   <br><sub><sup>*Di Wang, Jing Zhang, Minqiang Xu, Lin Liu, Dongsheng Wang, Erzhong Gao, Chengxi Han, Haonan Guo, Bo Du, Dacheng Tao, Liangpei Zhang*</sup></sub> | [Paper](https://arxiv.org/abs/2403.13430)/[Code](https://github.com/ViTAE-Transformer/MTP)
 |   14  | TPAMI  |  Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery   <br> <sup><sub>*Yansheng Li; Junwei Luo; Yongjun Zhang; Yihua Tan; Jin-Gang Yu; Song Bai*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.02481)/[Code](https://luo-z13.github.io/GLH-Bridge-page/)
 |   13  | CVPR  | Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection    <br> <sup><sub>*Chen Chen, Jiahao Qi, Xingyue Liu, Kangcheng Bin, Ruigang Fu, Xikun Hu, Ping Zhong*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.html)/Code
 |   12  | CVPR  | WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification   <br> <sup><sub>*Satish Kumar, Bowen Zhang, Chandrakanth Gudavalli, Connor Levenson, Lacey Hughey, et al.*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kumar_WildlifeMapper_Aerial_Image_Analysis_for_Multi-Species_Detection_and_Identification_CVPR_2024_paper.html)/[Code](https://github.com/UCSB-VRL/WildlifeMapper)
@@ -119,11 +119,12 @@
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
-14 | TGRS | Anchor-free Oriented Proposal Generator for Object Detection <br><sub><sup>*Gong Cheng, Jiabao Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2110.01931)/[Code](https://github.com/jbwang1997/AOPG)
-13 | IJCV | On the Arbitrary-Oriented Object Detection: Classification Based Approaches Revisited <br><sub><sup>*Xue Yang, Junchi Yan*</sup></sub> | [Paper](https://link.springer.com/article/10.1007/s11263-022-01593-w?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_5&utm_content=etoc_springer_20220428)/[Code](https://github.com/SJTU-Thinklab-Det/OHDet_Tensorflow)
-12 | ECCV | EAutoDet: Efficient Architecture Search for Object Detection <br><sub><sup>*Xiaoxing Wang, Jiale Lin, Junchi Yan, Juanping Zhao, Xiaokang Yang*</sup></sub> | [Paper](https://arxiv.org/abs/2203.10747)/Code
-11 | PAMI | SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing  <br><sub><sup>*Xue Yang, Junchi Yan, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
-10 | TIP | GGHL: A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection  <br><sub><sup>*Zhanchao Huang, Wei Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.12848)/[Code](https://github.com/Shank2358/GGHL)
+15 | TGRS | Anchor-free Oriented Proposal Generator for Object Detection <br><sub><sup>*Gong Cheng, Jiabao Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2110.01931)/[Code](https://github.com/jbwang1997/AOPG)
+14 | IJCV | On the Arbitrary-Oriented Object Detection: Classification Based Approaches Revisited <br><sub><sup>*Xue Yang, Junchi Yan*</sup></sub> | [Paper](https://link.springer.com/article/10.1007/s11263-022-01593-w?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_5&utm_content=etoc_springer_20220428)/[Code](https://github.com/SJTU-Thinklab-Det/OHDet_Tensorflow)
+13 | ECCV | EAutoDet: Efficient Architecture Search for Object Detection <br><sub><sup>*Xiaoxing Wang, Jiale Lin, Junchi Yan, Juanping Zhao, Xiaokang Yang*</sup></sub> | [Paper](https://arxiv.org/abs/2203.10747)/Code
+12 | PAMI | SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing  <br><sub><sup>*Xue Yang, Junchi Yan, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2004.13316.pdf)/[Proj](https://yangxue0827.github.io/SCRDet++.html)
+11 | TIP | GGHL: A General Gaussian Heatmap Label Assignment for Arbitrary-Oriented Object Detection  <br><sub><sup>*Zhanchao Huang, Wei Li, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2109.12848)/[Code](https://github.com/Shank2358/GGHL)
+10 | TIP | ACE: Anchor-Free Corner Evolution for Real-Time Arbitrarily-Oriented Object Detection   <br><sub><sup>*Pengwen Dai; Siyuan Yao; Zekun Li; Sanyi Zhang; Xiaochun Cao*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/9761381)/Code
 09 | TCSVT | RSDet++: Point-based Modulated Loss for More Accurate Rotated Object Detection <br><sub><sup>*Wen Qian, Xue Yang, et al.*</sup></sub> | [Paper](https://arxiv.org/pdf/2109.11906v1.pdf)/[Code](https://github.com/yangxue0827/RotationDetection)
 08 | CVPR | Interactive Multi-Class Tiny-Object Detection  <br><sub><sup>*Chunggi Lee, Seonwook Park, Heon Song, Jeongun Ryu, Sanghoon Kim*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Interactive_Multi-Class_Tiny-Object_Detection_CVPR_2022_paper.pdf)/[Code](https://github.com/ChungYi347/Interactive-Multi-Class-Tiny-Object-Detection)
 07 | CVPR | Weakly Supervised Rotation-Invariant Aerial Object Detection Network   <br><sub><sup>*Xiaoxu Feng, Gong Cheng, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Weakly_Supervised_Rotation-Invariant_Aerial_Object_Detection_Network_CVPR_2022_paper.pdf)/[Code](https://github.com/XiaoxFeng/RINet)
@@ -209,7 +210,7 @@
 :-: |:-: | :-: | :-  | :- 
 04 | 2016 | CVPR | RIFD-CNN: Rotation-Invariant and Fisher Discriminative Convolutional Neural Networks for Object Detection  <br><sub><sup>*Gong Cheng, Peicheng Zhou, Junwei Han*</sup></sub> | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Cheng_RIFD-CNN_Rotation-Invariant_and_CVPR_2016_paper.pdf)/Code|
 03 | 2016 | TGRS | <span style="white-space:nowrap;">Learning Rotation-Invariant Convolutional Neural Networks for Object Detection in VHR Optical Remote Sensing Images&emsp;</span>   <br><sub><sup>*Gong Cheng, Peicheng Zhou, Junwei Han*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/abstract/document/7560644)/[Code1](https://pan.baidu.com/s/158JPjYQvXwnkrAqKF72Jgg#list/path=%2FRICNN)<br>[Code2](https://github.com/jiangruoqiao/RICNN_GongCheng_CVPR2015)|
-02 | 2016 | ECCV | A Large Contextual Dataset for Classification, Detection and Counting of Cars with Deep Learning \[HBB\]  <br><sub><sup>*T. Nathan Mundhenk, et al.*</sup></sub>  | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_48)/Code
+02 | 2016 | ECCV | A Large Contextual Dataset for Classification, Detection and Counting of Cars with Deep Learning `[HBB]`  <br><sub><sup>*T. Nathan Mundhenk, et al.*</sup></sub>  | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_48)/Code
 01 | 2015 | ICCV | Oriented Object Proposals   <br><sub><sup>*Shengfeng He, Rynson W. H. Lau*</sup></sub>  | [Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/He_Oriented_Object_Proposals_ICCV_2015_paper.pdf)/Code  |
 
 
