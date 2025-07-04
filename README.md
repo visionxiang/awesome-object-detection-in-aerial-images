@@ -234,6 +234,7 @@
 
 **Year** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :- 
+2024 |  ECCV  | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection   <br> <sub><sup>*Yi-Xin Huang, Hou-I Liu, Hong-Han Shuai, Wen-Huang Cheng*</sup></sub>  | [Paper](https://arxiv.org/abs/2404.03507)/[Code](https://github.com/hoiliu-0801/DQ-DETR)
 2024 |  TCSVT | Save the Tiny, Save the All: Hierarchical Activation Network for Tiny Object Detection   <br> <sub><sup>*Guangqian Guo; Pengfei Chen; Xuehui Yu; Zhenjun Han; Qixiang Ye; Shan Gao*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/document/10146336?source=tocalert&dld=Z21haWwuY29t)/Code
 2023 | arXiv | Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art    <br> <sub><sup>*Aref Miri Rekavandi, Shima Rashidi, Farid Boussaid, Stephen Hoefs, Emre Akbas, Mohammed Bennamoun*</sup></sub>  | [Paper](https://arxiv.org/abs/2309.04902)/[Code](https://github.com/arekavandi/Transformer-SOD)   
 2023 |  ICCV | Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning   <br> <sub><sup>*Xiang Yuan, Gong Cheng, Kebing Yan, Qinghua Zeng, Junwei Han*</sup></sub>  | [Paper](https://arxiv.org/abs/2308.09534)/[Code](https://github.com/shaunyuan22/CFINet) 
