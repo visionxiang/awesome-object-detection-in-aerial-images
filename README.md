@@ -76,7 +76,8 @@
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
 |  2025  | ICLR   | PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection   <br><sub><sup>*Botao Ren, Xue Yang, Yi Yu, Junwei Luo, Zhidong Deng*</sup></sub> | [Paper](https://openreview.net/forum?id=R22JPTQYWV)/[Code](https://github.com/VisionXLab/PointOBB-v2)
-
+|  2025  | arXiv  | SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection   <br><sub><sup>*Yuxuan Li, Xiang Li, Yunheng Li, Yicheng Zhang, Yimian Dai, Qibin Hou, Ming-Ming Cheng, Jian Yang*</sup></sub> | [Paper](https://arxiv.org/abs/2412.20665)/[Code](https://github.com/zcablii/SM3Det)
+  
 
 
 
