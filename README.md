@@ -70,10 +70,22 @@
 
 
 
-#### 2024
+
+#### 2025
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
+|  2025  | ICLR   | PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection   <br><sub><sup>*Botao Ren, Xue Yang, Yi Yu, Junwei Luo, Zhidong Deng*</sup></sub> | [Paper](https://openreview.net/forum?id=R22JPTQYWV)/[Code](https://github.com/VisionXLab/PointOBB-v2)
+
+
+
+
+
+#### 2024
+
+**No.** | **Pub.** | **Title** | **Links**
+:-: | :-: | :-  | :- 
+|   18  | NeurIPS | E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection     <br><sub><sup>*Jiaqing Zhang, Mingxiang Cao, Weiying Xie, Jie Lei, Daixun Li, Wenbo Huang, Yunsong Li, Xue Yang*</sup></sub> | [Paper](https://arxiv.org/abs/2403.09323)/[Code](https://github.com/icey-zhang/E2E-MFD)
 |   17  | ECCV   | Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation   <br><sub><sup>*Zeyang Zhao, Qilong Xue, Yuhang He, Yifan Bai, Xing Wei, Yihong Gong*</sup></sub> | [Paper](https://arxiv.org/abs/2407.08489)/[Code](https://github.com/zhaozeyang108/Oriented-DETR)
 |   16  | ECCV   | Masked Angle-Aware Autoencoder for Remote Sensing Images      <br><sub><sup>*Zhihao Li, Biao Hou, Siteng Ma, Zitong Wu, Xianpeng Guo, Bo Ren, Licheng Jiao*</sup></sub> | [Paper](https://arxiv.org/abs/2408.01946)/[Code](https://github.com/benesakitam/MA3E)
 |   15  | JSTARS | MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining   <br><sub><sup>*Di Wang, Jing Zhang, Minqiang Xu, Lin Liu, Dongsheng Wang, Erzhong Gao, Chengxi Han, Haonan Guo, Bo Du, Dacheng Tao, Liangpei Zhang*</sup></sub> | [Paper](https://arxiv.org/abs/2403.13430)/[Code](https://github.com/ViTAE-Transformer/MTP)
