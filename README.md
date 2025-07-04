@@ -74,7 +74,7 @@
 
 **No.** | **Pub.** | **Title** | **Links**
 :-: | :-: | :-  | :-
-|   16  | ECCV   | Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation   <br><sub><sup>*Zeyang Zhao, Qilong Xue, Yuhang He, Yifan Bai, Xing Wei, Yihong Gong*</sup></sub> | [Paper](https://arxiv.org/abs/2407.08489)|[Code](https://github.com/zhaozeyang108/Oriented-DETR)
+|   16  | ECCV   | Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation   <br><sub><sup>*Zeyang Zhao, Qilong Xue, Yuhang He, Yifan Bai, Xing Wei, Yihong Gong*</sup></sub> | [Paper](https://arxiv.org/abs/2407.08489)/[Code](https://github.com/zhaozeyang108/Oriented-DETR)
 |   15  | JSTARS | MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining   <br><sub><sup>*Di Wang, Jing Zhang, Minqiang Xu, Lin Liu, Dongsheng Wang, Erzhong Gao, Chengxi Han, Haonan Guo, Bo Du, Dacheng Tao, Liangpei Zhang*</sup></sub> | [Paper](https://arxiv.org/abs/2403.13430)/[Code](https://github.com/ViTAE-Transformer/MTP)
 |   14  | TPAMI  |  Learning to Holistically Detect Bridges from Large-Size VHR Remote Sensing Imagery   <br> <sup><sub>*Yansheng Li; Junwei Luo; Yongjun Zhang; Yihua Tan; Jin-Gang Yu; Song Bai*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.02481)/[Code](https://luo-z13.github.io/GLH-Bridge-page/)
 |   13  | CVPR  | Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection    <br> <sup><sub>*Chen Chen, Jiahao Qi, Xingyue Liu, Kangcheng Bin, Ruigang Fu, Xikun Hu, Ping Zhong*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.html)/Code
